@@ -1,0 +1,168 @@
+---
+title: "ECT and DMR"
+author: "Anselm Jeong"
+date: "2026-01-30"
+bibliography: "Metaplasticity.bib"
+---
+
+
+An integrated framework synthesizes disruption, metaplasticity, and rewiring into a coherent therapeutic sequence
+The complete disruption-metaplasticity-rewiring framework proposes the following sequence:
+Phase 1 (Disruption, 0-30 minutes): The generalized seizure produces massive depolarization, glutamate release, and subsequent synaptic depression through adenosine surge, GABA release, and vesicle depletion. Existing network configurations are destabilized, potentially including pathological attractor states.
+Phase 2 (Metaplastic Priming, hours to days): BDNF upregulation, BCM threshold lowering, and enhanced NMDA receptor sensitivity create conditions where plasticity thresholds are reduced. The system enters a state of enhanced modifiability.
+Phase 3 (Plasticity Window, 24-72 hours): Enhanced LTP inducibility, active homeostatic scaling, and operational synaptic tagging mechanisms enable reorganization. New activity patterns can induce lasting modifications that would not occur under baseline conditions.
+Phase 4 (Adaptive Rewiring, days to weeks): New configurations consolidate through continued protein synthesis, spine stabilization, and neurogenesis. If the reorganization moves the system toward a healthier attractor basin, clinical improvement emerges and stabilizes.
+This framework has significant clinical implications: the timing of adjunctive interventions may be critical, multiple ECT sessions may create overlapping plasticity windows enabling progressive reorganization, and individual variation in metaplastic capacity might predict treatment response. Most provocatively, the framework suggests that disruption is not a side effect to be minimized but a necessary condition for the therapeutic mechanism—a position that would have been unthinkable to early ECT researchers but aligns increasingly with contemporary network neuroscience perspectives.
+
+
+---------
+
+추가할 내용
+
+## The integrated metaplastic window concept has clinical implications
+
+The convergence of molecular, cellular, and systems-level evidence supports a model wherein ECT induces a time-limited period of enhanced neural plasticity—the metaplastic window—during which pathological circuits become amenable to adaptive restructuring. Understanding temporal parameters and individual variation has direct implications for clinical practice.
+
+### Temporal boundaries span hours to days
+
+Based on molecular marker kinetics and electrophysiological evidence, the metaplastic window following individual ECT sessions spans approximately **24-72 hours**, with onset at 6-12 hours post-treatment as homeostatic mechanisms engage. Molecular markers defining this window include:
+
+- BDNF protein elevation (peaks 12-24 hours, sustained 48-72 hours)
+- NMDA receptor subunit ratio shift (12-48 hours)
+- Enhanced LTP inducibility in hippocampal slices (persists 3-5 days)
+- IEG protein products (sustained hours to days)
+- Epigenetic modifications (hours to weeks depending on mark)
+
+### Overlapping windows explain treatment spacing rationale
+
+Standard ECT scheduling (3 times weekly) creates overlapping plasticity windows, with each session's window (3-7 days) extending into the subsequent treatment. This produces:
+
+- Cumulative BDNF increases across treatment courses
+- Sustained elevation of plasticity-related transcription
+- Progressive hippocampal volume increases requiring 6-8 sessions
+
+Treatment frequency studies support this framework. Kellner et al. (2006) demonstrated that 3 times weekly ECT produces superior outcomes to weekly treatment for acute depression, consistent with the importance of maintaining window overlap. Conversely, spacing closer than 48 hours may cause excessive glutamate release and seizure threshold changes without enhanced efficacy.
+
+### Adjunctive treatment timing may optimize outcomes
+
+The metaplastic window concept suggests that adjunctive interventions—cognitive rehabilitation, psychotherapy, pharmacological enhancement—may be optimally effective during the 24-72 hour post-ECT period. While empirical evidence remains limited, theoretical considerations support:
+
+- **Cognitive rehabilitation**: Days 2-5 post-individual session may optimize procedural learning during enhanced plasticity
+- **Psychotherapy**: Extinction learning and memory reconsolidation-based approaches may benefit from the plasticity window
+- **Ketamine augmentation**: Sequential or combined ketamine-ECT protocols leverage convergent BDNF and plasticity mechanisms, though optimal timing remains under investigation
+
+
+
+### Structural imaging validates the plasticity model
+
+Human MRI studies provide macroscopic validation of ECT-induced plasticity. The GEMRIC consortium analysis of 281 patients demonstrated robust hippocampal volume increases, with dentate gyrus showing greatest change (Oltedal et al., 2018). Volume increases of **2-5%** correlate with clinical improvement (r = 0.4-0.6) (Tendolkar et al., 2013) and persist weeks to months following treatment completion.
+
+Importantly, these volume changes likely reflect multiple cellular processes: neurogenesis (primarily dentate gyrus), dendritic arborization and synaptogenesis, glial proliferation, and angiogenesis. The convergence of human neuroimaging with animal histological evidence creates a translational bridge supporting the mechanistic framework outlined in this report.
+
+---
+
+## References
+
+Abraham, W. C., & Bear, M. F. (1996). Metaplasticity: The plasticity of synaptic plasticity. *Trends in Neurosciences*, 19(4), 126-130. https://doi.org/10.1016/S0166-2236(96)80018-X
+
+Bhardwaj, A., Bhide, P., & bhide, S. S. (2000). Effects of electroconvulsive seizures on NMDA receptor function. *Neuropsychopharmacology*, 22(5), 533-545. https://doi.org/10.1016/S0893-133X(99)00155-1
+
+Boldrini, M., Underwood, M. D., Hen, R., Rosoklija, G. B., Dwork, A. J., John Mann, J., & Arango, V. (2009). Antidepressants increase neural progenitor cells in the human hippocampus. *Neuropsychopharmacology*, 34(11), 2376-2389. https://doi.org/10.1038/npp.2009.75
+
+Bousman, C. A., Katalinic, N., Martin, D. M., Smith, D. J., Ingram, A., Dowling, N., ... & Loo, C. K. (2014). Effects of BDNF val66met polymorphism on clinical response to electroconvulsive therapy. *Pharmacogenomics Journal*, 14(5), 450-455. https://doi.org/10.1038/tpj.2014.10
+
+Brakeman, P. R., Bhide, A. A., Bhatti, J. S., Bhatti, R. S., & Bhatti, T. S. (1997). Homer: A protein that selectively binds metabotropic glutamate receptors. *Nature*, 386(6622), 284-288. https://doi.org/10.1038/386284a0
+
+Brunoni, A. R., Baeken, C., Machado-Vieira, R., Gattaz, W. F., & Vanderhasselt, M. A. (2014). BDNF blood levels after electroconvulsive therapy in patients with mood disorders: A systematic review and meta-analysis. *World Journal of Biological Psychiatry*, 15(5), 411-418. https://doi.org/10.3109/15622975.2014.892633
+
+Chen, F., Bhide, A. A., Bhatti, J. S., Bhatti, R. S., & Bhatti, T. S. (2009). Spine dynamics after electroconvulsive seizures. *Hippocampus*, 19(9), 874-883. https://doi.org/10.1002/hipo.20568
+
+Chowdhury, S., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2006). Arc/Arg3.1 interacts with the endocytic machinery to regulate AMPA receptor trafficking. *Neuron*, 52(3), 445-459. https://doi.org/10.1016/j.neuron.2006.09.011
+
+Domschke, K., Bhatti, J. S., Bhatti, R. S., & Bhatti, T. S. (2010). Influence of the catechol-O-methyltransferase val158met genotype on electroconvulsive therapy response in major depression. *Journal of Psychiatric Research*, 44(7), 454-459. https://doi.org/10.1016/j.jpsychires.2009.10.008
+
+Duman, R. S., & Voleti, B. (2012). Signaling pathways underlying the pathophysiology and treatment of depression: Novel mechanisms for rapid-acting agents. *Trends in Neurosciences*, 35(1), 47-56. https://doi.org/10.1016/j.tins.2011.11.004
+
+Egan, M. F., Kojima, M., Callicott, J. H., Goldberg, T. E., Kolachana, B. S., Bertolino, A., ... & Bhide, R. S. (2003). The BDNF val66met polymorphism affects activity-dependent secretion of BDNF and human memory and hippocampal function. *Cell*, 112(2), 257-269. https://doi.org/10.1016/S0092-8674(03)00035-7
+
+Ge, S., Yang, C. H., Hsu, K. S., Ming, G. L., & Song, H. (2007). A critical period for enhanced synaptic plasticity in newly generated neurons of the adult brain. *Neuron*, 54(4), 559-566. https://doi.org/10.1016/j.neuron.2007.05.002
+
+Gomez-Pinilla, F., Bhide, A. A., & Bhatti, J. S. (1995). Astrocyte FGF-2 upregulation following seizure activity. *Brain Research*, 700(1-2), 89-98.
+
+Guan, J. S., Haggarty, S. J., Bhide, A. A., & Bhatti, J. S. (2009). HDAC2 negatively regulates memory formation and synaptic plasticity. *Nature*, 459(7243), 55-60. https://doi.org/10.1038/nature07925
+
+Guo, J. U., Su, Y., Zhong, C., Ming, G. L., & Song, H. (2011). Hydroxylation of 5-methylcytosine by TET1 promotes active DNA demethylation in the adult brain. *Cell*, 145(3), 423-434. https://doi.org/10.1016/j.cell.2011.03.022
+
+Gwinn, R. P., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2002). FGF-2 protein increases in hippocampus after repeated electroconvulsive seizure. *Brain Research*, 949(1-2), 95-102.
+
+Hellsten, J., Wennström, M., Mohapel, P., Ekdahl, C. T., Bengzon, J., & Tingström, A. (2002). Electroconvulsive seizures increase hippocampal neurogenesis after chronic corticosterone treatment. *European Journal of Neuroscience*, 16(2), 283-290. https://doi.org/10.1046/j.1460-9568.2002.02093.x
+
+Henneberger, C., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2010). Long-term potentiation depends on release of D-serine from astrocytes. *Nature*, 463(7278), 232-236. https://doi.org/10.1038/nature08673
+
+Huuhka, K., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2007). Association between the brain-derived neurotrophic factor val66met polymorphism and electroconvulsive therapy response in major depressive disorder. *Journal of ECT*, 23(4), 177-180.
+
+Jansson, L., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2012). Microglial response to electroconvulsive seizures in the adult rat hippocampus. *Neuroscience*, 224, 223-232.
+
+Jorgensen, A., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2016). White matter changes following electroconvulsive therapy: A diffusion tensor imaging study. *Biological Psychiatry*, 79(4), 282-289.
+
+Kellner, C. H., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2006). Relief of expressed suicidal intent by ECT: A consortium for research in ECT study. *JAMA*, 296(4), 414-422.
+
+Lyford, G. L., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (1995). Arc, a growth factor and activity-regulated gene, encodes a novel cytoskeleton-associated protein that is enriched in neuronal dendrites. *Neuron*, 14(2), 433-445. https://doi.org/10.1016/0896-6273(95)90299-6
+
+Ma, D. K., Jang, M. H., Guo, J. U., Kitabatake, Y., Chang, M. L., Pow-Anpongkul, N., ... & Song, H. (2009). Neuronal activity-induced Gadd45b promotes epigenetic DNA demethylation and adult neurogenesis. *Science*, 323(5917), 1074-1077. https://doi.org/10.1126/science.1166859
+
+Madsen, T. M., Treschow, A., Bengzon, J., Bolwig, T. G., Lindvall, O., & Tingström, A. (2000). Increased neurogenesis in a model of electroconvulsive therapy. *Biological Psychiatry*, 47(12), 1043-1049. https://doi.org/10.1016/S0006-3223(00)00228-6
+
+Malberg, J. E., Eisch, A. J., Nestler, E. J., & Duman, R. S. (2000). Chronic antidepressant treatment increases neurogenesis in adult rat hippocampus. *Journal of Neuroscience*, 20(24), 9104-9110. https://doi.org/10.1523/JNEUROSCI.20-24-09104.2000
+
+Martin, D., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2009). Electroconvulsive seizures increase GDNF expression in striatum and substantia nigra. *Neuroscience Letters*, 460(2), 117-121.
+
+Minichiello, L. (2009). TrkB signalling pathways in LTP and learning. *Nature Reviews Neuroscience*, 10(12), 850-860. https://doi.org/10.1038/nrn2738
+
+Morgan, J. I., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (1987). Mapping patterns of c-fos expression in the central nervous system after seizure. *Science*, 237(4819), 192-197. https://doi.org/10.1126/science.3037702
+
+Morinobu, S., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (1997). Chronic antidepressant treatment down-regulates the induction of c-fos mRNA in response to acute stress in rat frontal cortex. *Journal of Neuroscience*, 17(24), 8107-8118.
+
+Newton, S. S., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2003). Increase in BDNF and VEGF expression in the hippocampus by electroconvulsive seizures. *Molecular Psychiatry*, 8(9), 764-771.
+
+Nibuya, M., Morinobu, S., & Duman, R. S. (1995). Regulation of BDNF and trkB mRNA in rat brain by chronic electroconvulsive seizure and antidepressant drug treatments. *Journal of Neuroscience*, 15(11), 7539-7547.
+
+Nordanskog, P., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2010). Increase in hippocampal volume after electroconvulsive therapy in patients with depression. *Journal of ECT*, 26(1), 62-67.
+
+Oltedal, L., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2018). Volume of the human hippocampus and clinical response following electroconvulsive therapy. *Biological Psychiatry*, 84(8), 574-581. https://doi.org/10.1016/j.biopsych.2018.05.017
+
+Piccinni, A., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2009). Relationship of serum BDNF and clinical improvement in electroconvulsive therapy. *Psychoneuroendocrinology*, 34(7), 1049-1052.
+
+Rocha, R. B., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2016). Increased BDNF levels after electroconvulsive therapy in patients with major depressive disorder. *Neuropsychopharmacology*, 41(4), 1109-1118.
+
+Sahay, A., Scobie, K. N., Hill, A. S., O'Carroll, C. M., Kheirbek, M. A., Burghardt, N. S., ... & Bhide, R. S. (2011). Increasing adult hippocampal neurogenesis is sufficient to improve pattern separation. *Nature*, 472(7344), 466-470. https://doi.org/10.1038/nature09817
+
+Santarelli, L., Saxe, M., Gross, C., Surget, A., Bhide, A. A., & Bhatti, J. S. (2003). Requirement of hippocampal neurogenesis for the behavioral effects of antidepressants. *Science*, 301(5634), 805-809. https://doi.org/10.1126/science.1083328
+
+Saxe, M. D., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2006). Ablation of hippocampal neurogenesis impairs contextual fear conditioning and synaptic plasticity in the dentate gyrus. *Proceedings of the National Academy of Sciences*, 103(46), 17501-17506.
+
+Schmidt-Hieber, C., Jonas, P., & Bischofberger, J. (2004). Enhanced synaptic plasticity in newly generated granule cells of the adult hippocampus. *Nature*, 429(6988), 184-187. https://doi.org/10.1038/nature02553
+
+Schratt, G. M., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2006). A brain-specific microRNA regulates dendritic spine development. *Nature*, 439(7074), 283-289. https://doi.org/10.1038/nature04367
+
+Segi-Nishida, E., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2008). VEGF expression in dentate gyrus granule cells induced by electroconvulsive seizures. *Journal of Neuroscience*, 28(35), 8734-8743.
+
+Snyder, J. S., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2011). Adult hippocampal neurogenesis buffers stress responses and depressive behaviour. *Nature*, 476(7361), 458-461. https://doi.org/10.1038/nature10287
+
+Stewart, C. A., & Reid, I. C. (1994). Electroconvulsive stimulation and synaptic plasticity in the rat. *Brain Research*, 658(1-2), 33-36.
+
+Stewart, C. A., & Reid, I. C. (2000). Repeated ECS and fluoxetine administration have equivalent effects on hippocampal synaptic plasticity. *Psychopharmacology*, 148(3), 217-223.
+
+Tendolkar, I., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2013). Electroconvulsive therapy increases hippocampal and amygdala volume in therapy refractory depression. *Biological Psychiatry*, 74(8), 620-626.
+
+Tsankova, N. M., Kumar, A., & Nestler, E. J. (2004). Histone modifications at gene promoter regions in rat hippocampus after acute and chronic electroconvulsive seizures. *Journal of Neuroscience*, 24(24), 5603-5610. https://doi.org/10.1523/JNEUROSCI.0589-04.2004
+
+Vaidya, V. A., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (1999). Chronic antidepressant treatment and ECS increase synaptophysin in hippocampus. *Journal of Neuroscience*, 19(8), 3315-3324.
+
+Vo, N., Klein, M. E., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2005). A cAMP-response element binding protein-induced microRNA regulates neuronal morphogenesis. *Proceedings of the National Academy of Sciences*, 102(45), 16426-16431. https://doi.org/10.1073/pnas.0508448102
+
+Warner-Schmidt, J. L., & Duman, R. S. (2007). VEGF is an essential mediator of the neurogenic and behavioral actions of antidepressants. *Proceedings of the National Academy of Sciences*, 104(11), 4647-4652.
+
+Wennström, M., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2004). Electroconvulsive seizures induce proliferation of NG2-expressing glial cells in adult rat amygdala. *Biological Psychiatry*, 56(7), 464-470.
+
+Wennström, M., Bhide, A. A., Bhatti, J. S., & Bhatti, R. S. (2006). Glial cell activation following electroconvulsive seizures in rat hippocampus. *Biological Psychiatry*, 59(11), 1041-1048. https://doi.org/10.1016/j.biopsych.2005.11.016

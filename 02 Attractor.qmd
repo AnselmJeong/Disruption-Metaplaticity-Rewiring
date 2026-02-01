@@ -1,0 +1,45 @@
+---
+title: "Attractor Dynamics"
+author: "Anselm Jeong"
+date: 2026-01-31
+format: docx
+bibliography: Metaplasticity.bib
+---
+
+## From Categorical Nosology to Dynamical Systems Theory
+
+Current psychiatric classification systems, such as the DSM, largely rely on categorical models that treat mental disorders as distinct entities. However, this framework often fails to capture the fluid reality of clinical practice, where patients frequently present with heterogeneous symptoms, extensive comorbidity, and diagnostic shifts over time [@Joober2019]. The limitations of viewing psychiatric conditions as static "essences" have prompted a shift toward **Dynamical Systems Theory (DST)**, which conceptualizes psychopathology not as a fixed disease entity, but as a specific **dynamical state** of the brain and body [@Maj2005; @Kendler2015; @joober2019].
+
+In this view, the vast array of neurobiological, psychological, and social variables that define a person's mental state can be mapped onto a high-dimensional **state space**. Within this space, stable psychiatric conditions—as well as healthy functioning—emerge as **attractors**: regions toward which the system naturally gravitates and becomes "trapped." The surrounding territory that pulls trajectories toward an attractor is known as its **basin of attraction**. Mental illness, then, is characterized by the system becoming confined within deep, maladaptive basins that resist the transitions required for healthy psychological flexibility [@Salvi2021; @schefferEtAl2024a; @ngr2025].
+
+## Neural Architecture as a Potential Energy Landscape
+
+While the concept of state space attractors provides a powerful abstraction for clinical symptoms, it is physically grounded in the brain's functional organization. At the circuit level, the **network structure**—specifically the recurrent collateral connections among neurons—determines the geometry of this state space. The matrix of synaptic weights ($W$) effectively defines a static **potential energy surface**, or landscape, where the altitudes represent levels of neural activation.
+
+As the systems' state evolves through time according to dynamic rules, it behaves like a ball rolling across this terrain. Stable equilibrium points at the bottom of valleys represent attractors, while unstable peaks and ridges act as **repellors** that push the system toward neighboring basins. The "dynamic resilience" of any given state, as described by Scheffer et al.[@schefferEtAl2024a], is determined by the basin's depth and the steepness of its slopes. In a resilient healthy system, deep basins allow the brain to absorb significant stressors (perturbations) and rapidly return to a stable equilibrium.
+
+## Noise, Stability, and the Erosion of Resilience
+
+The stability of these neural representations is constantly tested by **internal noise**, arising from the irregular, Poisson-like timing of individual spikes within finite neural populations [@Surez2006]. In the healthy cortex, this stochasticity is further amplified by graded, exponential firing rate distributions. This inherent variability ensures that attractor basins remain sufficiently malleable, allowing the system to absorb perturbations while maintaining the robust resilience necessary to return to a stable equilibrium [@Webb2011; @Rolls2012].
+
+Psychopathology often emerges when structural changes, such as the **dilution of connectivity** or excessive synaptic pruning, flatten and rigidify these energy landscapes. This erosion of dynamic resilience makes the healthy basins fragile; as they become shallower and more rigid, even minor life stressors can push the systems' state over a repellor—a **tipping point**—into a pathological basin.
+
+## The Paradox of Persistence: Hysteresis and Network Rigidity
+
+A hallmark of severe psychiatric disorders is **hysteresis**: the tendency for a system to remain trapped in a maladaptive state even after the initiating stressor has vanished. While the global healthy landscape may be degraded and shallow, pathological states often develop intense **local hyper-connectivity** [@SvozCouche2017]. This "trapping" is rooted in multi-scale deficits that span from synaptic architecture to large-scale network dynamics.
+
+At the synaptic level, depression is closely associated with impaired neuroplasticity and structural erosion, including decreased dendritic spine density, impaired long-term potentiation (LTP), and reduced expression of plasticity-related molecules such as Brain-Derived Neurotrophic Factor (BDNF) [@Price2010;@Duman2012;@Kang2012;@Duman2016]. These cellular-level deficits translate into macroscopic abnormalities in large-scale functional networks, particularly within the Default Mode Network (DMN) [@Yan2019;@Tozzi2021].
+
+In healthy individuals, dynamic functional connectivity exhibits significant flexibility, allowing the brain to transition seamlessly between a diverse repertoire of attractor states according to environmental context. In contrast, patients with depression exhibit reduced temporal variability and a restricted state repertoire. This **Network Rigidity**—the hardening of maladaptive attractor basins—leads to excessive occupancy in sub-optimal states, most notably the ruminative attractors associated with the DMN [@Kaiser2016;@Demirta2016;@DOstilio2016;@Regonia2021;@Durstewitz2021;@An2024]. For example, hyper-connectivity within non-reward circuits in the lateral orbitofrontal cortex (OFC) can create exceptionally deep basins that are highly resistant to noise-driven escape [@Hilal2016].
+
+These maladaptive states are often reinforced by large-scale attractors, such as mutual re-excitation loops between the OFC and the DMN, which sustain persistent ruminative cycles. In these deep basins, the system's own self-reinforcing feedback entrenches the pathological state, rendering typical daily transitions impossible and necessitating more profound clinical interventions.
+
+## Therapeutic Recovery as Landscape Reshaping
+
+The attractor framework suggests that recovery requires interventions capable of fundamentally reshaping the energy landscape. Because pathological basins can be very rigid (the hysteresis effect), small perturbations often fail to dislodge the system. Intensive treatments, such as **Electroconvulsive Therapy (ECT)**, may provide the necessary "reset" by softening these deep and rigid basins and restoring the dynamic resilience of healthy attractors (see Figure: health_ECT.png).
+
+Evidence from large-scale neuroimaging supports this circuit-based model, showing that lateral OFC hyper-connectivity correlates with rumination, while medial OFC hypoconnectivity predicts anhedonia [@Hilal2016; @Pedull2020]. Whether through pharmacological modulation with SSRIs, neuromodulation like Deep Brain Stimulation (DBS), or the broad physiological effects of ECT, the goal of treatment remains consistent: to manipulate neural circuit weights and reshape the attractor landscape to favor flexible, healthy states [@Rao2018; @Rolls2020].
+
+![](Images/health,%20ECT.png){width="600"}
+
+By bridging microscopic connectivity with macroscopic clinical phenotypes, attractor dynamics offer a parsimonious explanation for the persistence, suddenness, and resistance to change that define the clinical characteristics of mental illness.

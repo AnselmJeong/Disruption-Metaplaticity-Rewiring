@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "Disruption–Metaplasticity–Rewiring (DMR) Hypothesis"
+  author: "Anselm Jeong"
+  date: "2026-01-31"
+  
+  chapters:
+    - index.md
+    - 01 Introduction.qmd
+    - 02 Attractor.qmd
+    - 03 Two Ways.qmd
+    - 04 Psychedelic.qmd
+
+bibliography: Metaplasticity.bib
+
+format: docx
+    

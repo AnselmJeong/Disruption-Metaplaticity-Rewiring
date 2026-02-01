@@ -1,0 +1,14 @@
+---
+title: "Two Ways of Escaping a Pathological Basin"
+author: "Anselm Jeong"
+date: "2026-01-31"
+bibliography: "Metaplasticity.bib"
+---
+
+Van de Leemput et al. [@vandeLeemput2014] applied dynamical systems theory to mood disorders, and introduced Critical Slowing Down (CSD) as a predictive index for the onset of depression. According to this theory, as a system approaches a tipping point, the rate at which it returns to its original equilibrium after a minor perturbation (stressor) significantly slows down. Consequently, early warning signs (EWS) emerge, such as increased autocorrelation (where the current emotional state is strongly linked to the subsequent state) or a rise in variance as the system fluctuates unstably [@Scheffer2009;@Dakos2012;@Smit2025].
+
+Even without the use of complex algorithms like CSD, when a series of warning signs signals an impending onset or relapse, clinicians attempt to modify specific symptoms by any available means—particularly those that appear most influential within the pathological feedback loop [@Robinaugh2020;@Helmich2021]. Crisis management operates in this manner, controlling symptoms such as cognitive bias, negative affect, or sleep-wake cycles to move the system away from the tipping point and avert relapse [@Stocker2023]. This strategy corresponds to slightly tilting certain axes (symptom variables) that constitute the basin of attraction to guide the system toward a healthier state.
+
+However, in conditions such as treatment-resistant depression, where the system is already trapped in a deep attractor, merely alleviating a few symptoms is often insufficient to facilitate an escape. In such cases, rather than targeting specific symptoms, the entire landscape must be transformed [@Hosenfeld2015;@CarhartHarris2019]. Metaphorically, this involves making the basin of attraction itself malleable enough to enable a transition to a healthier state. This principle has been applied in ecological and climate systems, where short, powerful perturbations can induce a decisive transition toward a more favorable state [@Scheffer2001;@Scheffer2009].
+
+Therefore, for a system orbiting through various states within a state space, we have two ways to guide the system to a designated direction: first, tilting a few axes (symptoms) to nudge the system away from a tipping point; and second, remodelling the landscape itself to lower the barriers to transition into a healthy state. While the former involves treating individual symptoms, the latter leads naturally to the concept of metaplasticity. This leads to the discussion of ECT and psychedelics assisted psychotherapy.
