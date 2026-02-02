@@ -1,0 +1,8 @@
+---
+title: "Combination or Staged Treatments"
+author: "Anselm Jeong"
+date: "2026-02-03"
+bibliography: "Metaplasticity.bib"
+---
+
+ In a small case series reported by López-Rodríguez et al. (10.1097/yct.0000000000001233),combining ECT and intranasal esketamine in four patients with severe treatment-resistant depression resulted in a mean 58% reduction in MADRS scores over 24 weeks, with no relapses and only mild, transient adverse effects. The authors proposed that combining ECT and esketamine may leverage complementary mechanisms: ECT provides a "hard reset (disruption)" of maladaptive neural networks, while ESK opens the enhanced plasticity window to stabilize and reinforce adaptive connectivity. 

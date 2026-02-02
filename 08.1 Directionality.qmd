@@ -1,0 +1,21 @@
+---
+title: "Directionality and the Unique Role of LTD in Neuromodulation"
+author: "Anselm Jeong"
+date: "2026-02-01"
+format: docx
+bibliography: Metaplasticity.bib
+---
+
+Among the various therapeutic modalities aiming to manipulate neural plasticity—including ECT, psychedelics, rTMS, and pharmacotherapy—rTMS is unique in its explicit use of Long-Term Depression (LTD) as a therapeutic mechanism. However, the degree to which LTD truly underpins therapeutic efficacy is still debated; in humans, its existence is mainly inferred through the suppression of motor evoked potentials (MEP) following inhibitory rTMS protocols. 
+
+In conventional rTMS, the direction (LTP or LTD) is primarily controlled by the stimulation frequency: high-frequency (>5 Hz) rTMS generally increases cortical excitability and promotes LTP-like potentiation, whereas low-frequency (≤1 Hz) rTMS tends to decrease excitability and induce LTD-like effects. In contrast, newer protocols such as theta burst stimulation (TBS) modulate the balance through the pattern of delivery. Specifically, intermittent delivery (iTBS) lead to LTP-like effects, whereas continuous delivery (cTBS) lead to LTD-like effects [@biomedicines12112506].
+
+Historically, the pathophysiology of depression was frequently conceptualized as left-hemispheric hypoactivity within the DLPFC and compensatory right-hemispheric hyperactivity. Consequently, it was posited that suppressing the latter via 1Hz (inhibitory) rTMS would restore homeostatic balance. While this "inhibitory strategy" continues to be widely employed in clinical settings, definitive evidence that its therapeutic efficacy stems directly from the induction of synaptic LTD remains elusive.
+
+Regardless of its precise molecular underpinnings, the capacity of rTMS to induce directional change distinguishes it from more globally disruptive interventions. Whereas ECT and psychedelics are characterized by massive, system-wide disruptions, rTMS operates through discrete, topographic modifications. While ECT and psychedelics may also induce LTD-like changes through synaptic downscaling and homeostatic rebalancing, these effects occur non-selectively across broad cortical and subcortical circuitries, lacking the regional specificity inherent to rTMS.
+
+In the metaphorical language of dynamical systems theory, ECT and psychedelics seem to demolish and soften the state-space landscape, thereby enhancing global malleability. In contrast, rTMS seems to carefully sculpt the neuronal circuits to allow targeted dissolution of deep attractor basins and restoring the resilence of healthy basins. This remodeling process will help to restore the normal, adaptive connectivity patterns.
+
+Pharmacological interventions, such as SSRIs, represent a third distinct category. SSRIs typically lack the regional specificity of rTMS and appear to rely more heavily on maintaining  "metaplastic window" to promote LTP like plasticity. By modulating neurotrophic signaling and receptor sensitivity over extended periods, SSRIs create a permissive environment for gradual reorganization. Rather than actively sculpting the landscape, SSRIs provide the milieu in which environmental stimuli or life experiences can slowly reshape the neural topography.
+
+Taken together, these observations highlight the "fine-grained sculpting" capability of rTMS. While ECT and psychedelics function as global disruptors that increase system-wide plasticity, and SSRIs act as environmental facilitators, rTMS uniquely allows for the exquisite carving of the neural landscape.

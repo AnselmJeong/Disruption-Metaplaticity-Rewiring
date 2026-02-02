@@ -5,89 +5,138 @@ date: "2026-02-01"
 bibliography: "Metaplasticity.bib"
 ---
 
-DMR의 timeline에서 rTMS가 차지하는 위치는 상대적으로 rewiring에 가깝다. rTMS의 치료적 기전 역시 neuroplasticity를 통해 이루어지는 것은 마찬가지이지만, nonspecific하게 metaplasticity를 올린다기 보다는 neural circuit의 개별 시냅스 level에서 LTP 혹은 LTD를 유도하는 것에 초점을 맞추고 있다.
-rTMS는 전자기 유도 원리를 이용하여 자기장을 발생시키고, 이것이 피질 내에 국소적인 전기장을 유도하여 신경 세포를 탈분극시키고  glutamate 분비를 자극한다. Glutamate의 분비는 NMDA(N-methyl-D-aspartate) 수용체와 AMPA($\alpha$-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) 수용체를 자극하며, 이 상호작용에 의해 LTP가 일어날지 LDP가 일어날지가 결정된다.고빈도 자극은 시냅스 후 뉴런 내로 칼슘 이온($Ca^{2+}$)의 대량 유입을 유도하며, 이는 칼슘/칼모듈린 의존성 단백질 인산화효소 II(CaMKII)와 같은 세포 내 신호 전달 경로를 활성화한다. 활성화된 신호 경로는 AMPA 수용체의 GluR1 소단위체를 인산화하여 시냅스 막으로의 추가적인 수용체 삽입을 촉진하며, 결과적으로 시냅스 전달 효율을 강화한다. 반면 저빈도 자극은 낮은 수준의 지속적인 칼슘 유입을 유도하여 탈인산화 효소를 활성화하고, 시냅스 막에 존재하는 AMPA 수용체의 내입(Internalization)을 유도하여 시냅스 강도를 약화시킨다.
+Among the therapeutic modalities that modulate neural plasticity, rTMS occupies a unique niche. It functions primarily through targeted synaptic "rewiring" unlike other modalities that induce non-specific shifts in metaplasticity (10.1073/pnas.95.26.15635). rTMS focuses on modulating individual synapses within specific neural circuits through the induction of Long-Term Potentiation (LTP) and/or Long-Term Depression (LTD) (10.1186/1743-0003-6-7; 10.1016/j.biopsych.2023.11.016; ).
 
-rTMS가 시술 부위에 전격적인 탈분극을 유발하지만 ECT와 같은 global disruption을 일으키는 것처럼 보이지는 않는다. Disruption의 구체적 증거가 뭔지는 논란이 있을 수 있지만, rTMS 후 ECT에서와 같은 postictal suppression이나 CDS가 관찰되지는 않는다. 또한 일시적인 혼란이나 기억력 장애가 나타날 수는 있어도 극히 드물고, 그 지속시간도 ECT에 비해 현저히 짧다 (10.1016/j.clinph.2020.10.003). 오히려 mild cognitive disorder나 Alzheimer 환자에게 사용했을 때 인지기능이 향상될 정도이다 (10.3389/fcell.2021.734046).
+The mechanism relies on electromagnetic induction, where focal magnetic fields generate intracranial electric currents that depolarize neurons and stimulate glutamate release at the targeted cortical ares. The activation of NMDA and AMPA receptors by induced depolarization determines the direction of plasticity: high-frequency stimulation triggers a massive influx of calcium (Ca^{2+}), activating pathways like CaMKII to increase AMPA receptor density (LTP), while low-frequency stimulation leads to a lower, sustained calcium influx that promotes AMPA receptor internalization (LTD) (10.1016/j.neuron.2016.12.015;10.1016/j.neuron.2012.11.016).
 
-Disruption 효과는 미미한 탓인지, rTMS의 치료 효과 역시 주로 neuroplasticity 변화로 설명되고 있다. 그러나 이는 ECT나 psychedelic이 일으키는 metaplasticity 변화와는 미묘하게 차이가 난다. 무엇보다도 rTMS에 다양한 protocol이 존재하는 것은 LTP와 LDP의 균형을 맞추는 것이 치료 목적에 따라 달라지기 때문이다. 예를 들어 우울증의 경우, 왼쪽 배외측 전전두엽(DLPFC)의 저하된 활동(hypoactivity)과 오른쪽 DLPFC의 과도한 활동(hyperactivity)을 보정하기 위해 **왼쪽 DLPFC에는 고주파(≥10Hz) 자극(LTP 유도)**을, **오른쪽 DLPFC에는 저주파(1Hz) 자극(LTD 유도)**을 적용하는 이중 전략이 사용됩니다[Source 5: 2015 - Tracy et al. - Clinical neuromodulation in psychiatry the state of the art or an art in a state.pdf, p.1-1].
+In general, the localized depolarization does not produce the global disruption characteristic of ECT or psychedelics. Neither does it produce postictal suppression or cortical slowing seen after seizures, and cognitive side effects are exceptionally rare and transient (10.1001/jamapsychiatry.2016.3644). While it shares a common mechanism involving neuroplasticity with other therapies, rTMS is distinguished by its ability to precisely control both the direction and the spatial distribution of neuroplasticity (10.1016/j.neuron.2007.06.026).
 
-정신분열증의 청각성 환각(auditory verbal hallucinations)에서는 과활성화된 언어 네트워크를 억제하기 위해 **저주파(slow) rTMS(LTD 유도)**를 측두정부 교차점(temporoparietal junction)에 적용합니다[Source 5: 2015 - Tracy et al., p.1-1].
+## LTP and LTD
+
+Among the various therapeutic modalities aiming to manipulate neural plasticity—including ECT, psychedelics, rTMS, and pharmacotherapy—rTMS is unique in its explicit use of Long-Term Depression (LTD) as a therapeutic mechanism. However, the degree to which LTD truly underpins therapeutic efficacy is still debated; in humans, its existence is mainly inferred through the suppression of motor evoked potentials (MEP) following inhibitory rTMS protocols. 
+
+In conventional rTMS, the direction (LTP or LTD) is primarily controlled by the stimulation frequency: high-frequency (>5 Hz) rTMS generally increases cortical excitability and promotes LTP-like potentiation, whereas low-frequency (≤1 Hz) rTMS tends to decrease excitability and induce LTD-like effects (10.1016/s0006-3223(00)01065-9). In contrast, newer protocols such as theta burst stimulation (TBS) modulate the balance through the pattern of delivery. Specifically, intermittent delivery (iTBS) lead to LTP-like effects, whereas continuous delivery (cTBS) lead to LTD-like effects [@biomedicines12112506].
+
+Historically, the pathophysiology of depression was frequently conceptualized as left-hemispheric hypoactivity within the DLPFC and compensatory right-hemispheric hyperactivity. Consequently, it was posited that suppressing the latter via 1Hz (inhibitory) rTMS would restore homeostatic balance. While this "inhibitory strategy" continues to be widely employed in clinical settings, definitive evidence that its therapeutic efficacy stems directly from the induction of synaptic LTD remains elusive.
+
+Regardless of its precise molecular underpinnings, the capacity of rTMS to induce directional change distinguishes it from more globally disruptive interventions. Whereas ECT and psychedelics are characterized by massive, system-wide disruptions, rTMS operates through discrete, topographic modifications. While ECT and psychedelics may also induce LTD-like changes through synaptic downscaling and homeostatic rebalancing, these effects occur non-selectively across broad cortical and subcortical circuitries, lacking the regional specificity inherent to rTMS.
+
+In the metaphorical language of dynamical systems theory, ECT and psychedelics seem to demolish and soften the state-space landscape, thereby enhancing global malleability. In contrast, rTMS seems to carefully sculpt the neuronal circuits to allow targeted dissolution of deep attractor basins and restoring the resilence of healthy basins. This remodeling process will help to restore the normal, adaptive connectivity patterns.
+
+Pharmacological interventions, such as SSRIs, represent a third distinct category. SSRIs typically lack the regional specificity of rTMS and appear to rely more heavily on maintaining  "metaplastic window" to promote LTP like plasticity. By modulating neurotrophic signaling and receptor sensitivity over extended periods, SSRIs create a permissive environment for gradual reorganization. Rather than actively sculpting the landscape, SSRIs provide the milieu in which environmental stimuli or life experiences can slowly reshape the neural topography.
+
+Taken together, these observations highlight the "fine-grained sculpting" capability of rTMS. While ECT and psychedelics function as global disruptors that increase system-wide plasticity, and SSRIs act as environmental facilitators, rTMS uniquely allows for the exquisite carving of the neural landscape.
 
 
+## Homeostatic and Spatially Specific Plasticity Mechanisms in rTMS
 
-고전적인 rTMS의 경우에는 자극의 frequency를 통해 균형을 맞춘다. 즉 High-frequency (>5 Hz) rTMS generally **increases** cortical excitability and promotes LTP-like potentiation, whereas low-frequency (≤1 Hz) rTMS tends to **decrease** excitability and induce LTD-like effects. 반면 좀더 새로운 protocol인 theta burst stimulation(TBS)은 간헐적(intermittent)이냐 연속적(continuous)이냐에 따라 LTP와 LTD의 균형을 맞춘다 (10.3390/biomedicines12112506).
+rTMS engages multiple forms of neuroplasticity, including both Hebbian synapse-specific changes and homeostatic regulatory processes. While classical models emphasize LTP and LTD as the primary mechanisms, a growing literature indicates that rTMS also engages homeostatic plasticity, a set of compensatory processes that stabilize neuronal activity in response to prolonged perturbations (10.1016/j.brs.2015.01.404;10.1111/j.1460-9568.2007.05603.x;10.1016/j.neuint.2025.106021;10.1371/journal.pcbi.1011027).
 
-그러나 Goldsworthy 등(10.3390/biomedicines12112506)은 이러한 흥분/억제 이분법이 개인 간 변이성이 크며, 예상과 반대 방향으로 반응하는 개인이 많다는 점을 지적합니다
+Homeostatic plasticity operates to preserve network stability by adjusting synaptic properties when average activity deviates from a set point(10.1016/s0166-2236(98)01341-1;10.1016/j.conb.2011.09.006;10.1016/j.brs.2015.01.404). Basicall, rTMS is a global homeostatic plasticity that maintains network stability by adjusting synaptic properties when average activity deviates from a set point. Widespread shifts in average firing rates trigger uniform scaling of synaptic strength across brain regions: prolonged increases in network activity produce synaptic downscaling, whereas sustained low activity leads to upscaling of synaptic weights (10.1101/cshperspect.a005736). This global scaling preserves the relative differences among synaptic weights while normalizing overall excitability, thereby preventing pathological hyper- or hypo-excitability.
 
+Concurrently, a local homeostatic adjustment is also in effect. According to the sliding threshold model such as BCM, homeostatic mechanisms are driven by local activity history (10.1016/j.brs.2015.01.404). Circuit elements that experience relatively higher activity over rTMS sessions may undergo proportionally stronger compensatory downscaling compared to less active elements, that is, prior activity biases the balance between potentiation and depression. In principle, it is possible that the same stimulation paradigm produces opposite plastic effects depending on baseline excitability or recent stimulation history (10.1523/JNEUROSCI.5316-03.2004;10.1016/j.biopsych.2023.09.011).
 
+These homeostatic processes interact with the regional specificity of rTMS. Homeostatic adjustment confined to a specific region occurs against a backdrop of global adjustment. This homeostatic principle explains why rTMS effects are state dependent and not strictly monotonic with stimulation frequency or intensity: both the baseline excitability of targeted circuits and the pattern of network activity can bias subsequent plasticity. In this way, rTMS may modulate cortical excitatory–inhibitory balance through the combined action of directionally specific synaptic plasticity (LTP/LTD-like effects) and homeostatic regulation of network excitability, thereby facilitating circuit-level recalibration without global disruption (10.1016/j.conb.2022.102553).
 
-물론 rTMS 역시 synaptic strength, structural change, functional connectivity에 변화를 일으킨다. 그러나 single session이냐, Multiple session이냐에 따라, 얼마나 집중적으로 강한 자극을 주느냐에 따라 각각의 neuroplastic change가 차지하는 비중이 달라진다.
+## Structural Plasticity: The Remodeling of Dendritic Spines
 
+The functional changes induced by rTMS are physically manifested through structural plasticity, specifically the remodeling of dendritic spines. These tiny protrusions are the primary sites of excitatory synaptic input, and their morphology reflects their functional state. 
 
-At the molecular level, rTMS modulates glutamatergic and GABAergic transmission: it enhances excitatory (glutamate) signaling and reduces inhibitory (GABA) tone, thereby shifting the excitation/inhibition balance towards plasticity . In parallel, repeated rTMS upregulates neurotrophic factors and plasticity-related genes (e.g. **BDNF**, c-Fos) in targeted cortex and connected regions . For example, left DLPFC stimulation (10 Hz) raises BDNF levels and other synaptic proteins, supporting new spine formation .
+Dendritic spine이 
 
+- **Filopodia**: Long, thin, immature protrusions that lack a distinct head. They serve as "feelers," exploring the environment and representing a highly plastic state.
+- **Thin Spines**: Characterized by a small head and long neck, these are often considered "learning spines," capable of significant enlargement or retraction.
+- **Mushroom Spines**: Possessing large heads and narrow necks, these are "memory spines"—stable, strong, and containing a high density of AMPA and NMDA receptors.
+- **Stubby Spines**: Intermediate structures lacking a distinct neck, often seen during transitions in spine development.
 
-## 1. 시냅스 및 분자 수준의 변화
+rTMS induces "plasticity" by driving spinogenesis (the formation of new spines) and the maturation of thin spines into mushroom spines. Animal models of depression, autism, and stroke consistently show that rTMS increases spine density across multiple cortical layers.
 
-rTMS의 변화는 주로 시냅스 수준에서의 LTP 및 LTD에 집중된다. (2024 - Fitzsimmons et al. - Repetitive Transcranial Magnetic Stimulation-Induced Neuroplasticity and the Treatment of Psychiatric Disorders State of the Evidence and Future Opportunities.pdf (p.1-1)).
+### Molecular Mechanisms of Structural Change
+The transition from magnetic pulse to structural growth is mediated by complex molecular cascades. A central player is **Brain-Derived Neurotrophic Factor (BDNF)**, which rTMS significantly upregulates. BDNF binds to **TrkB** receptors, activating the PI3K/Akt and MAPK/ERK pathways—the primary intracellular signals for protein synthesis and cytoskeletal organization.
 
-- 고주파(HF) rTMS 및 간헐적 세타 버스트 자극(iTBS)은 흥분성을 증가시키고 억제를 감소시키는 것으로 나타났으며, 이는 행동/임상적 반응과 관련됩니다[Source 10].
-- 운동 유발 전위(MEP) 진폭 변화를 통해 측정된 결과, 고주파(>5 Hz)는 MEP 진폭을 증가시키고, 저주파(≤1 Hz)는 감소시키는 경향이 있으며, 이는 운동피질 흥분성의 양방향 조절을 시사합니다[Source 5 - 2021 - Goldsworthy et al. - Effects of rTMS on the brain is there value in variability.pdf (p.1-1)].
-- 그러나 Goldsworthy 등(2021)은 이러한 흥분/억제 이분법이 개인 간 변이성이 크며, 예상과 반대 방향으로 반응하는 개인이 많다는 점을 지적합니다[Source 5].
+At the physical level, these pathways drive **actin polymerization**, pushing the neuronal membrane outward to form new filopodia. Maturation then follows as rTMS increases the expression of AMPA receptor subunits (GluR1, GluR2) and the scaffolding protein **PSD-95**. PSD-95 acts as the "glue" that stabilizes receptors within the membrane, transforming wobbly, plastic thin spines into stable mushroom spines.
 
-## 3. 구조적 변화 (뇌 구조 재구성)
+Interestingly, increased spine density is often observed regardless of whether excitatory (high-frequency) or inhibitory (low-frequency) protocols are used. This suggests that rTMS does not merely "turn the volume up or down" but rather enhances the overall structural potential for adaptation, making the brain "structurally ready" to reorganize.
 
-rTMS는 단기 및 장기적으로 뇌의 구조적 특성을 변화시킵니다:
-
-**회백질(Gray Matter)**:
-- 5일간의 1 Hz rTMS 치료 후 상측 측두피질에서 회백질의 거시적 변화가 5일 이내에 발생함이 입증되었습니다. 이는 신경세포 또는 신경교세포 생성보다는 돌기(dendritic spine)와 시냅스 회전율과 같은 세포 수준의 빠른 조정을 반영합니다[Source 6 - 2010 - Hoogendam et al. - Physiology of repetitive transcranial magnetic stimulation of the human brain.pdf (p.1-1)].
-- 우울증 치료에서 고주파 rTMS 후 좌측 전방 대상피질(anterior cingulate cortex), 섬(insula), 상측 측두회(hippocampus) 등에서 회백질 부피 및 피질 두께 증가가 문서화되었으며, 좌측 전방 대상피질 부피 증가가 치료 효과와 상관관계를 보였습니다[Source 7 - 2024 - Fitzsimmons et al. - Repetitive Transcranial Magnetic Stimulation-Induced Neuroplasticity and the Treatment of Psychiatric Disorders State of the Evidence and Future Opportunities.pdf (p.1-1)].
-
-**백질(White Matter)**:
-- 뇌졸중 등 신경학적 장애에서 고주파 및 저주파 rTMS 모두 백질 완전성(integrity)을 증가시키며, 이는 임상 결과와 상관관계가 있습니다[Source 7].
-- 우울증에서 좌측 DLPFC 부근 측면 전두엽 백질의 완전성 증가는 증상 개선과 관련이 있습니다[Source 7].
-
-## 4. 기능적 연결망(Functional Networks) 변화
-
-rTMS는 자극 부위뿐 아니라 원격 부위까지 영향을 미치는 네트워크 수준의 변화를 유발합니다:
-- 휴식상태 fMRI 연구에서 흥분성 및 억제성 프로토콜 모두 원격 부위의 기능적 연결성(FC)을 증가시키는 경향이 있으며, 대부분의 FC 변화는 자극 부위보다 원격 부위에서 발견됩니다[Source 7].
-- 우울증 치료에서 DLPFC에 대한 고주파 rTMS 후 전방 및 대상아래 대상피질(subgenual cingulate cortex)의 FC 변화가 증상 개선과 관련되며, DLPFC의 전역 연결성(global connectivity) 증가가 더 큰 증상 개선과 관련됩니다[Source 7].
-- 가속화된 iTBS 후 FC가 건강한 대조군의 연결 패턴과 더 유사해지며, 치료 결과와 상관관계를 보이고 치료 종료 후 1개월까지 지속됩니다[Source 7].
-
-## 5. 신경 변동성(Neural Variability)의 변화
-
-최근 연구들은 rTMS가 순간적 신경 활동의 변동성을 조절할 수 있음을 시사합니다:
-- Goldsworthy 등(2021)은 개인 내 순간별(moment-to-moment) 신경 활동 변동성이 rTMS에 의해 조절될 수 있으며, 이는 치료적 적용에 중요한 의미를 가질 수 있다고 제안합니다. MEP 진폭의 시행 간 변동성(trial-to-trial variability)이 높은 기저선이 cTBS 후 더 강한 MEP 억제와 관련이 있다는 증거가 있습니다[Source 9 - 2021 - Goldsworthy et al. - Effects of rTMS on the brain is there value in variability.pdf (p.1-1)].
-- 이러한 변동성의 증가는 경험 의존적 가소성에 민감한 더 유연한 피질 상태를 제공하여, 후속 rTMS 유도 가소성을 준비(priming)하는 데 활용될 수 있습니다[Source 9].
-
-## 6. 시간적 스케일(Timescales) 및持續性
-
-rTMS 유도 가소성은 시간에 따라 다른 패턴을 보입니다:
-- **단기(단일 세션)**: 글루타메이트 농도, 도파민 결합, FC 변화가 발생하며, 이는 활성 관련 가소성 과정을 반영합니다[Source 10].
-- **장기(다중 세션)**: 단기 활성 관련 가소성이 기능 및 구조 수준의 장기 변화로 진행됩니다. 다중 세션 rTMS는 백질 완전성 및 회백질 구조의 변화를 유도하며, 이는 치료 효과와 관련됩니다[Source 7, 10].
-- 예를 들어, 스탠포드 신경조절 치료 프로토콜은 다중 세션을 통해 69%의 반응률을 달성하고 치료 후 4주까지 편도체 FC의 지속적인 변화를 보였습니다[Source 7].
-
-## 7. 최적화 및 개인별 요인
-
-rTMS 유도 가소성은 다음과 같은 개인별 특성에 의존합니다:
-- **상태 의존성(State-dependence)**: 표적 뇌 네트워크가 자극 전에 활성화되어 있을 때 효과가 더 큽니다. 프라이밍(저강도 rTMS 예행 훈련)은 후속 가소성 반응을 조절할 수 있습니다[Source 7, 9, 10].
-- **개인별 특성**: 연령, 유전학, 성별, 기저 연결성 및 신경전달물질 농도 등이 가소성 반응을 예측할 수 있습니다. 단일 동시 rTMS-fMRI 세션 동안의 FC 변화는 다중 세션 치료의 임상 결과를 예측할 수 있습니다[Source 10].
-
-## 8. 측정 방법론
-
-다양한 신경영상 기법을 통해 rTMS 유도 가소성을 측정할 수 있습니다:
-- **fMRI**: BOLD 신호를 통한 뇌 활성 및 기능적 연결성 변화 측정[Source 8 - 2021 - Goldsworthy et al. - Effects of rTMS on the brain is there value in variability.pdf (p.1-1)]
-- **EEG**: 사건관련전위(ERP), 진동 활동, 및 TMS-유발전위(TEP)를 통한 시간적 역동성 측정[Source 8]
-- **구조적 MRI**: 회백질 부피/두께 및 확산 MRI를 통한 백질 완전성 측정[Source 7]
-
-결론적으로, rTMS는 시냅스에서 신경회로 수준에 이르기까지 다층적이고 미묘한 가소성 과정을 유발하며, 이러한 변화는 정신장애의 치료 결과에 영향을 미칩니다. 그러나 개인 간 반응의 높은 변이성과 측정 방법의 한계를 극복하기 위해서는 다중 시간점 및 다중 모달 연구가 추가로 필요합니다[Source 3, 10].
+### Pruning and Homeostasis
+Structural plasticity also encompasses the elimination of redundant or weak connections. While mature BDNF promotes growth, its precursor, **proBDNF**, binds to the **p75NTR** receptor to promote spine shrinkage and pruning. This mechanism is particularly relevant in conditions like autism, where rTMS may help normalize abnormally high spine densities. Thus, rTMS acts as a modulator rather than a simple growth factor, pruning the "bad" and strengthening the "good" to restore circuit efficiency.
 
 
 
+------------
+추가 내용
+------------
 
+Section 1.2: Structural Plasticity & Dendritic Spines
+"Now, let's look at the target: the dendritic spine.
 
+If you look at Figure 1 in the paper, you will see we categorize spines by shape. This isn't just aesthetics; shape predicts function:
 
-REWIRING
+Filopodia: These are long, thin, and lack a head. They are essentially 'feelers' exploring the environment. They are immature and highly plastic.
+Thin Spines: These have a small head and a long neck. They are 'learning' spines—plastic and capable of change.
+Mushroom Spines: These have a large head and a narrow neck. They are 'memory' spines—stable, strong, and containing a high density of receptors (AMPA/NMDA).
+Stubby Spines: These lack a distinct neck; they are somewhat intermediate.
+Why this matters:
+When rTMS induces 'plasticity,' we are essentially pushing the system to create more spines (spinogenesis) or convert Thin spines into Mushroom spines (maturation). We are looking for the physical manifestation of 'learning' induced by our magnetic pulse."
 
-Synaptic Tagging and Capture: This is a sophisticated concept introduced later. It suggests that a synapse can be "tagged" during weak stimulation, marking it for change. However, to actually solidify that change, it must "capture" plasticity-related proteins (PRPs) synthesized elsewhere in the neuron (often triggered by strong stimulation). This explains how weak events can lead to strong memories if they happen close to a strong event.
+Section 1.4.1: Effects on Spinogenesis (The Birth of Spines)
+"Let's dive into the data. Does rTMS make new spines?
+Looking at Table 1, which summarizes various animal studies, the answer is a resounding yes. Across different models—depression, autism, stroke—rTMS generally increases spine density.
+
+Mechanism:
+How does a magnetic pulse tell a cell to grow a spine? It triggers molecular cascades:
+
+BDNF (Brain-Derived Neurotrophic Factor): This is a key protein. Imagine it as fertilizer for the brain. rTMS upregulates BDNF.
+Signaling Pathways: BDNF binds to its receptor TrkB, which activates the PI3K/Akt and MAPK/ERK pathways. These are the intracellular highways that tell the nucleus to start building proteins for new spines.
+Actin Polymerization: At the physical level, spines are made of actin filaments. rTMS appears to promote actin polymerization, pushing the membrane out to form a new filopodium.
+Nuance:
+Interestingly, we see this increase in spines regardless of whether we use high-frequency (excitatory) or low-frequency (inhibitory) protocols. This suggests that rTMS is not just 'turning the volume up or down,' but rather enhancing the potential for plasticity. It is making the brain more 'structurally ready' to adapt."
+
+Section 1.4.2: Effects on Remodeling & Maturation (Strengthening Connections)
+"Creating a spine is step one. Step two is making it useful. This involves maturation.
+
+Silent Synapses & AMPA Receptors:
+Many new spines are 'silent'—they have NMDA receptors but lack AMPA receptors. For the spine to transmit a strong signal, it must insert AMPA receptors.
+Several studies in this review show that rTMS increases the expression of GluR1 and GluR2 (subunits of the AMPA receptor). Furthermore, we see upregulation of PSD-95.
+
+The Role of PSD-95:
+Think of PSD-95 as the 'glue' or the 'scaffold' of the synapse. When rTMS increases PSD-95, it stabilizes the AMPA receptors in the membrane. This transforms a wobbly, plastic Thin spine into a stable, strong Mushroom spine.
+
+The Confusion Point:
+Here is where it gets tricky. Some studies show rTMS increases mushroom spines (stabilizing connections), while others show a decrease in mushroom spines but an increase in thin spines.
+Interpretation: This likely depends on the disease state. In a healthy brain, rTMS might promote stability. In a 'rigid' or pathological brain (like in some autism models where connections are too dense/rigid), rTMS might actually destabilize old, overly-strong connections to allow for new learning. It is a push toward homeostasis."
+
+Section 1.4.3: Effects on Pruning & Elimination (Cleaning House)
+"We cannot talk about growth without talking about death. Synaptic pruning is essential.
+
+If we only grew spines, our brains would become 'noisy' or epileptic. rTMS also helps eliminate weak or redundant connections.
+
+Mechanism: This often involves LTD (Long-Term Depression) mechanisms. If a spine doesn't get enough activity, it retracts.
+ProBDNF: While mature BDNF grows spines, its precursor, proBDNF, binds to a different receptor (p75NTR) and actually promotes spine shrinkage and pruning.
+Clinical Relevance: The review cites studies where rTMS reduced spine density in models of Autism (where spine density is often abnormally high). This is crucial: rTMS is not just a 'builder'; it is a 'modulator.' It prunes the bad and grows the good."
+Section 1.4.4: Bridging the Gap (The Synthesis)
+"This is the most important conceptual section.
+Traditionally, researchers study 'functional plasticity' (electrophysiology) in one lab and 'structural plasticity' (histology) in another. This review argues they are the same process viewed at different scales.
+
+The molecular bridge is the signaling cascades (PI3K/Akt, MAPK, CaMKII). When rTMS stimulates the brain, it triggers these pathways.
+
+Immediate effect: Changes in receptor phosphorylation (Functional).
+Intermediate effect: Actin remodeling, spine head enlargement (Structural).
+Long-term effect: Gene transcription, protein synthesis, permanent spine creation or removal (Structural consolidation of functional change).
+If you only measure the electrical signal (functional), you miss the physical rewiring. If you only count spines (structural), you miss the immediate electrophysiological need that drove the change. rTMS drives both."
+
+Part 3: Highlights of Common Confusion
+As we review these findings, there are three areas where students often stumble:
+
+The Paradox of "Excitatory" rTMS causing Inhibition (or vice versa):
+
+Confusion: You might see a paper labeled "Inhibitory rTMS (1 Hz)" that results in more spines. Shouldn't inhibition mean less growth?
+Clarification: "Inhibitory" refers to the net firing rate of a population of neurons measured at the surface (MEP). However, at the cellular level, "inhibition" often involves activating inhibitory interneurons. The plastic response to that inhibition (the homeostatic counter-reaction) might involve growing new excitatory spines to compensate. Don't equate "low frequency stimulation" with "atrophy." It often triggers growth as a compensatory mechanism.
+The Term "Universal Modulator":
+
+Confusion: This sounds like rTMS does the same thing everywhere.
+Clarification: It does not. "Universal" means the mechanism (plasticity pathways like BDNF/TrkB) is available in all neurons. The outcome (grow vs. shrink, excite vs. inhibit) depends entirely on the initial state of the tissue. If the brain is hypoactive (depression), rTMS pushes it up. If it is hyperconnected (autism), it might push it down. It is a universal tool for homeostasis, not a universal direction.
+Disease Models vs. Healthy Brains:
+
+Confusion: Results vary wildly between the papers cited (Table 1).
+Clarification: Pay close attention to the "Animal Model" column. rTMS in a healthy mouse might look very different from rTMS in a mouse with chronic stress. Plasticity mechanisms are often dormant in a stable, healthy environment but 'awakened' when the system is stressed or diseased. This is the "metaplasticity" concept—the plasticity of plasticity.

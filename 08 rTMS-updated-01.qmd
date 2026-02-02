@@ -1,0 +1,75 @@
+---
+title: "rTMS: A Targeted Approach to Synaptic Rewiring"
+author: "Anselm Jeong"
+date: "2026-02-01"
+bibliography: "Metaplasticity.bib"
+---
+
+## The Unique Properties of rTMS
+
+Among the therapeutic modalities that modulate neural plasticity, repetitive transcranial magnetic stimulation (rTMS) occupies a unique niche. Unlike larger-scale interventions such as electroconvulsive therapy (ECT) or psychedelic-assisted therapy, which induce non-specific shifts in metaplasticity across broad networks, rTMS functions primarily through targeted synaptic "rewiring" (10.1073/pnas.95.26.15635). By focusing on individual synapses within specific neural circuits, rTMS modulates activity through the induction of long-term potentiation (LTP) and/or long-term depression (LTD) (10.1186/1743-0003-6-7; 10.1016/j.biopsych.2023.11.016).
+
+The fundamental mechanism of rTMS relies on electromagnetic induction. Focal magnetic fields generate intracranial electric currents that depolarize neurons and stimulate glutamate release at the targeted cortical areas. The resulting activation of NMDA and AMPA receptors determines the direction of plasticity: high-frequency stimulation typically triggers a massive influx of calcium (Ca$^{2+}$), activating pathways like CaMKII to increase AMPA receptor density (LTP), whereas low-frequency stimulation leads to a lower, sustained calcium influx that promotes AMPA receptor internalization (LTD) (10.1016/j.neuron.2016.12.015; 10.1016/j.neuron.2012.11.016).
+
+Unlike the global disruption characteristic of ECT or psychedelics, rTMS-induced depolarization is localized. It does not produce postictal suppression or the cortical slowing observed after seizures, and cognitive side effects are exceptionally rare and transient (10.1001/jamapsychiatry.2016.3644). While it shares a common foundation of neuroplasticity with other therapies, rTMS is distinguished by its capacity to precisely control both the direction and spatial distribution of synaptic changes (10.1016/j.neuron.2007.06.026).
+
+## Directionality: LTP and LTD
+
+A defining feature of rTMS is its explicit utilization of LTD-like mechanisms as a therapeutic tool. While the degree to which LTD underpins clinical efficacy is still debated—largely because its existence in humans is inferred through the suppression of motor evoked potentials (MEP)—it remains a cornerstone of stimulation protocols.
+
+In conventional rTMS, the direction of plasticity is primarily controlled by stimulation frequency: high-frequency (>5 Hz) protocols generally increase cortical excitability and promote LTP-like effects, while low-frequency (≤1 Hz) protocols tend to decrease excitability and induce LTD-like effects (10.1016/s0006-3223(00)01065-9). Newer paradigms, such as theta burst stimulation (TBS), modulate this balance through the pattern of delivery: intermittent delivery (iTBS) promotes LTP-like effects, whereas continuous delivery (cTBS) promotes LTD-like effects [@biomedicines12112506].
+
+Historically, conditions like depression were conceptualized as a balance of left-hemispheric hypoactivity and right-hemispheric hyperactivity within the dorsolateral prefrontal cortex (DLPFC). This led to the "inhibitory strategy" of using low-frequency rTMS to suppress hyperactivity and restore homeostatic balance. While widely employed, definitive molecular evidence linking therapeutic outcomes strictly to synaptic LTD remains elusive.
+
+Regardless of the precise molecular details, the capacity for directional control distinguishes rTMS from global disruptors. In the language of dynamical systems, whereas ECT and psychedelics "soften" the state-space landscape to enhance global malleability, rTMS carefully sculpts neuronal circuits to dissolve deep pathological attractor basins and restore the resilience of healthy ones. This remodeling process facilitates the restoration of adaptive connectivity patterns without the system-wide tremors induced by more disruptive modalities.
+
+## Structural Plasticity: The Remodeling of Dendritic Spines
+
+The functional changes induced by rTMS are physically manifested through structural plasticity, specifically the remodeling of dendritic spines. These tiny protrusions are the primary sites of excitatory synaptic input, and their morphology reflects their functional state. 
+
+Dendritic spine이 
+
+- **Filopodia**: Long, thin, immature protrusions that lack a distinct head. They serve as "feelers," exploring the environment and representing a highly plastic state.
+- **Thin Spines**: Characterized by a small head and long neck, these are often considered "learning spines," capable of significant enlargement or retraction.
+- **Mushroom Spines**: Possessing large heads and narrow necks, these are "memory spines"—stable, strong, and containing a high density of AMPA and NMDA receptors.
+- **Stubby Spines**: Intermediate structures lacking a distinct neck, often seen during transitions in spine development.
+
+rTMS induces "plasticity" by driving spinogenesis (the formation of new spines) and the maturation of thin spines into mushroom spines. Animal models of depression, autism, and stroke consistently show that rTMS increases spine density across multiple cortical layers.
+
+### Molecular Mechanisms of Structural Change
+The transition from magnetic pulse to structural growth is mediated by complex molecular cascades. A central player is **Brain-Derived Neurotrophic Factor (BDNF)**, which rTMS significantly upregulates. BDNF binds to **TrkB** receptors, activating the PI3K/Akt and MAPK/ERK pathways—the primary intracellular signals for protein synthesis and cytoskeletal organization.
+
+At the physical level, these pathways drive **actin polymerization**, pushing the neuronal membrane outward to form new filopodia. Maturation then follows as rTMS increases the expression of AMPA receptor subunits (GluR1, GluR2) and the scaffolding protein **PSD-95**. PSD-95 acts as the "glue" that stabilizes receptors within the membrane, transforming wobbly, plastic thin spines into stable mushroom spines.
+
+Interestingly, increased spine density is often observed regardless of whether excitatory (high-frequency) or inhibitory (low-frequency) protocols are used. This suggests that rTMS does not merely "turn the volume up or down" but rather enhances the overall structural potential for adaptation, making the brain "structurally ready" to reorganize.
+
+### Pruning and Homeostasis
+Structural plasticity also encompasses the elimination of redundant or weak connections. While mature BDNF promotes growth, its precursor, **proBDNF**, binds to the **p75NTR** receptor to promote spine shrinkage and pruning. This mechanism is particularly relevant in conditions like autism, where rTMS may help normalize abnormally high spine densities. Thus, rTMS acts as a modulator rather than a simple growth factor, pruning the "bad" and strengthening the "good" to restore circuit efficiency.
+
+## Homeostatic and Spatially Specific Plasticity
+
+The effects of rTMS are governed by homeostatic regulatory processes that stabilize neuronal activity against prolonged perturbations. rTMS engages both Hebbian synapse-specific changes and global homeostatic scaling (10.1016/j.brs.2015.01.404; 10.1111/j.1460-9568.2007.05603.x).
+
+### Global and Local Scaling
+Homeostatic plasticity maintains network stability by adjusting synaptic properties when average activity deviates from a set point (10.1016/s0166-2236(98)01341-1). Prolonged increases in network activity trigger synaptic downscaling, while sustained low activity leads to upscaling (10.1101/cshperspect.a005736). This preserves the relative differences in synaptic weight while normalizing overall excitability.
+
+Simultaneously, local adjustments occur according to the sliding threshold model (e.g., the BCM rule). Circuit elements with a history of high activity may undergo stronger compensatory downscaling, meaning the same stimulation paradigm can produce opposite effects depending on the baseline state or recent activity history (10.1523/JNEUROSCI.5316-03.2004).
+
+### State-Dependency
+This interaction between regional specificity and homeostatic principles explains why rTMS effects are non-monotonic and state-dependent. The outcome is not determined by the stimulation parameters alone but by the "metaplastic" state of the tissue—the plasticity of plasticity. In this way, rTMS recalibrates the excitatory-inhibitory balance through the combined action of directional synaptic changes and homeostatic regulation, avoiding the global disruption inherent to other modalities (10.1016/j.conb.2022.102553).
+
+## Synthesis: Bridging the Functional-Structural Gap
+
+Traditionally, functional plasticity (electrophysiology) and structural plasticity (histology) have been studied in isolation. However, rTMS research underscores that they are the same process viewed at different scales. 
+
+The immediate effect of stimulation involves receptor phosphorylation and changes in synaptic efficacy (functional). This is followed by actin remodeling and spine enlargement (intermediate structural), eventually leading to gene transcription and the permanent creation or removal of spines (structural consolidation). By driving both processes, rTMS achieves a "fine-grained sculpting" of the neural landscape. It acts as a universal modulator—utilizing conserved plasticity pathways (BDNF/TrkB) available in all neurons—where the ultimate direction of change is dictated by the initial pathological or healthy state of the circuit.
+
+
+
+## Growth and Pruning of Synapses
+
+Silent synapses, defined by the presence of NMDA receptors (NMDARs) but a paucity of AMPA receptors (AMPARs), fail to transmit electrical signals under resting conditions due to the Mg²⁺ block of NMDARs. These entities are typically observed during early developmental stages or in states of heightened plasticity. Structurally, silent synapses are predominantly localized within thin spines—immature dendritic protrusions characterized by elongated necks and small heads—which possess small postsynaptic densities (PSDs) and low AMPAR content. The structural attributes of thin spines align precisely with the functional characteristics of silent synapses, with current literature identifying thin spines as the principal morphological substrate for silent synapses and noting their heightened sensitivity to NMDAR-dependent plasticity.
+
+The activation of these silent synapses and their subsequent structural maturation are initiated by activity-dependent depolarization. This process relieves the Mg²⁺ block on NMDARs, permitting Ca²⁺ influx and the consequent activation of Ca²⁺/calmodulin-dependent protein kinase II (CaMKII). CaMKII facilitates the trafficking and insertion of AMPARs into the PSD, thereby enhancing synaptic strength. The scaffolding protein PSD-95 plays a critical role in this transition; its upregulation expands the PSD and stabilizes AMPARs, promoting the clustering of both AMPARs and NMDARs. These molecular events drive morphological changes characterized by the enlargement of the spine head and shortening of the neck, converting the thin spine into a mushroom spine. Mushroom spines are distinguished by large PSDs, abundant AMPARs, and stable synaptic connections, serving as the structural correlate of long-term potentiation (LTP). Consistent with this mechanism, repetitive transcranial magnetic stimulation (rTMS) has been shown to upregulate PSD-95 and AMPAR expression, thereby increasing the proportion of mushroom spines (e.g., Lee et al., 2021).
+
+rTMS exerts its effects by modulating the expression of NMDARs and AMPARs and activating key signaling pathways, including BDNF-TrkB, CaMKII, and PSD-95, to facilitate the activation of silent synapses and the maturation of thin spines. Notably, intermittent theta-burst stimulation (iTBS) increases the expression of AMPAR subunits GluR1 and GluR2, directly promoting the conversion of thin spines into mushroom spines (Lee et al., 2021). Furthermore, while phosphorylation of PSD-95 can induce NMDAR dissociation and potentially restrict spine growth, rTMS fine-tunes this interaction to ensure appropriate synaptic maturation (Hou et al., 2021). Thus, rather than indiscriminately enhancing plasticity, rTMS precisely rewires neural circuits through context-dependent regulation of LTP and LTD, homeostatic plasticity, and dendritic spine morphology.
