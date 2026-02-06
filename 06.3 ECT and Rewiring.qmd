@@ -79,3 +79,13 @@ ECT의 치료 효과는 단순히 '자극'에만 있는 것이 아니라, 그 �
 
 
 The "Metaplastic Priming" phase (Phase 2) suggests that ECT’s true efficacy lies in its ability to move the brain from a state of rigid dysfunction into one of **enhanced modifiability**. However, this window has a "sell-by date." The therapeutic challenge is not only to open the window through effective disruption but also to guide the system’s subsequent "System Update" through targeted environmental and behavioral interventions, leading finally to stable, adaptive **Rewiring** (Phase 3).
+
+
+
+
+
+
+
+While activation of mTOR and ERK pathways is typically associated with adaptive spinogenesis, the directionality of structural remodeling is highly context-dependent. For example, aggressive social interactions result in the dephosphorylation of mTOR in the mPFC of female Syrian hamsters, even as ERK1/2 is phosphorylated in the nucleus accumbens ([DOI: 10.3390/ijms24021379](https://doi.org/10.3390/ijms24021379)). This finding contrasts with the mTOR activation observed in therapeutic models and highlights that maladaptive or stress-related behaviors may utilize distinct signaling cascades to drive structural plasticity. Chronic stress paradigms generally induce dendritic atrophy and spine loss in the PFC and hippocampus, a process mediated in part by microglial activity ([DOI: 10.1038/npp.2015.171;](https://doi.org/10.1038/npp.2015.171;) [DOI: 10.1038/s41386-020-0720-1](https://doi.org/10.1038/s41386-020-0720-1)). Indeed, diazepam has been shown to limit microglia-mediated neuronal remodeling in the PFC following chronic unpredictable stress, thereby preserving neuronal architecture ([DOI: 10.1038/s41386-020-0720-1](https://doi.org/10.1038/s41386-020-0720-1)).
+
+Similarly, pathological states such as chronic pain or cocaine addiction promote maladaptive circuit remodeling. Cocaine exposure, for instance, leads to the loss of mGluR1-dependent long-term depression (LTD) and the accumulation of calcium-permeable AMPA receptors in the PFC, representing a distinct form of pathological synaptic consolidation (10.1080/01677063.2021.1931180).
