@@ -1,0 +1,16 @@
+---
+title: "Neuroplastic Turn"
+author: "Anselm Jeong"
+date: "2026-02-13"
+bibliography: "Metaplasticity.bib"
+---
+
+The canonical explanation of depression has been the monoamine hypothesis, which posits that depression is caused by a deficiency in brain monoamine levels and that increasing the concentrations of these molecules with antidepressants produces therapeutic effects [@SCHILDKRAUT1965]. However, this model failed to explain the 3~6 weeks delay between immediate neurochemical changes and clinical improvement. This discrepancy prompted a paradigm shift toward a neuroplasticity-centered framework. Key evidence for this "neuroplastic turn" included findings that chronic antidepressant exposure increases hippocampal neurogenesis [@Malberg2000] and that blocking this process prevents behavioral effects in preclinical models [@Santarelli2003]. Furthermore, chronic antidepressant use was found to increase BDNF and TrkB mRNA [@Nibuya1995]. These insights led to theories characterizing antidepressants as permissive agents that enhance network plasticity rather than mere upregulator of monoamine levels [@Castrn2013;@Castrn2013a].
+
+For SSRIs, this delay in clinical improvement suggests that critical therapeutic events occur downstream of receptor activation. During this latency period, intracellular signal transduction triggers gene transcription and de novo protein synthesis that support the neurons' intrinsic functions. These processes ultimately manifest as structural and functional plasticity, involving the strengthening or weakening of existing synapses and the formation of new synaptic connections [@Castrn2013;@Casarotto2021].
+
+Unlike SSRI, rapid-acting antidepressants like ketamine and psychedelics produce sustained effects after minimal dosing, which cannot be explained by simple receptor occupancy. Ketamine’s efficacy was found to be due to rapid, mTOR-dependent synaptogenesis [@Li2010], while psychedelics's due to massive desynchronization of brain activity and subsequent structural and functional plasticity [@Ly2018;@Shao2021].
+
+Neuromodulation techniques have undergone a similar conceptual evolution. Early explanations for ECT focused on acute neurotransmitter release or the seizure itself, but contemporary models emphasize multilevel plasticity and the permissive action of ECT for further plastic change [@Nibuya1995;@Cano2023;@Laroy2025]. Similarly, rTMS has moved beyond an "excitatory vs. inhibitory" framing. The clinical need for repeated stimulation aligns with the cumulative nature of synaptic and network plasticity rather than transient excitation or inhibition [@OReardon2007]. Through these theoretical developments, a consensus has emerged characterizing rTMS as a potent inducer of plasticity [@Ziemann1998].
+
+These conceptual evolutions demonstrate that seemingly disparate therapeutic modalities—pharmacotherapy, psychedelics, and neuromodulation (ECT and rTMS)— all converge on neuroplasticity as a central mechanism of action. Although future research may further delineate their differences or uncover additional mechanisms, this paper emphasizes their commonalities, referring to them collectively as "plasticity-enhancing treatments."
