@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Disruption–Metaplasticity–Rewiring (DMR) Hypothesis"
+  title: "Disrupt–Potentiate–Rewire-Homeostasis (DPRH) Model"
   author: "Anselm Jeong"
   date: "2026-01-31"
   
@@ -10,8 +10,18 @@ book:
     - index.md
     - 01 Introduction.qmd
     - 02 Attractor.qmd
-    - 03 Two Ways.qmd
-    - 04 Psychedelic.qmd
+    - 03 Neuroplastic Turn.qmd
+    - 04 Insight from Psychedelic.qmd
+    - 06 DPRH model.qmd
+    - 06.1 Disruption.qmd
+    - 06.2 Plasticity.qmd
+    - 06.3 Rewiring.qmd
+    - 06.4 Homeostasis.qmd
+    - 07.1 Medication.qmd
+    - 07.2 rTMS.qmd
+    - 10 Combination Therapies.qmd
+    - 10.1 Temporal Dynamics.qmd
+    - 10.2 Interpretation of Combination.qmd
 
 bibliography: Metaplasticity.bib
 
