@@ -21,15 +21,15 @@ In clinical terms, initial response emerges rapidly: the CORE study reported tha
 
 ## Ketamine/Esketamine
 
-Ketamine's action is extremely rapid. A single intravenous infusion produces symptom reduction within hours, with some patients reporting improvement during the infusion itself [@Zarate2006]. This rapidity is attributed to its direct blockade of NMDA receptors, which triggers a compensatory glutamate surge that activates AMPA receptors. The subsequent BDNF release and mTOR-dependent synaptogenesis takes place within hours rather than the weeks required for monoaminergic agents.
+Ketamine's action is extremely rapid. A single intravenous infusion produces symptom reduction within hours, with some patients reporting improvement during the infusion itself [@Zarate2006]. This rapidity is attributed to its blockade of NMDA receptors, which triggers a compensatory glutamate surge that activates AMPA receptors. Also, it can directly activate mTOR bypassing the need for gradual TrkB-mediated pathway [@harraz2016]. The release of BDNF and mTOR-dependent synaptogenesis takes place within hours rather than the weeks required for monoaminergic agents.
 
-However, the therapeutic effect of a single dose dissipates within 3–7 days, with relapse occurring at a median of 18–19 days after the last of a standard six-dose course [@Murrough2013;@Salloum2020]. This rapid decay reflects the transient nature of ketamine-induced synaptic remodeling. The initial burst of synaptic growth appears insufficient to establish durable circuit reorganization.
+However, the therapeutic effect of a single dose dissipates within 3–7 days, with relapse occurring at a median of 18–19 days after the last of a standard six-dose course [@Murrough2013; @Salloum2020]. This rapid decay reflects the transient nature of ketamine-induced synaptic remodeling. The initial burst of synaptic growth appears insufficient to establish durable circuit reorganization.
 
 This rapid decay is mitigated by combination with antidepressants. In the relapse prevention trial by Daly et al.[@Daly2019], patients who achieved remission on esketamine plus oral antidepressant showed a median time to relapse of 635 days. This result underscores the critical role of pharmacological maintenance therapy.
 
 ## Psilocybin-Assisted Therapy
 
-Psilocybin's acute pharmacological effect is time-limited: subjective effects begin within 20–40 minutes, peak at 90 minutes to 3 hours, and resolve within 4–6 hours. However, the therapeutic consequences are remarkably prolonged, extending months to over a year from a single or double administration [@Davis2021;@Gukasyan2022].
+Psilocybin's acute pharmacological effect is time-limited: subjective effects begin within 20–40 minutes, peak at 90 minutes to 3 hours, and resolve within 4–6 hours. However, the therapeutic consequences are remarkably prolonged, extending months to over a year from a single or double administration [@Davis2021; @Gukasyan2022].
 
 This combination of rapid onset and prolonged durability places psilocybin in a unique position among existing treatments. It should be noted, however, that psilocybin is rarely administered as a standalone pharmacological intervention; nearly all clinical protocols embed the drug experience within a structured psychotherapy framework. The integration psychotherapy surrounding each session may provide the directed environmental input required to guide adaptive rewiring [@Moliner2023]. Nevertheless, few other treatments are known to sustain a critical period of heightened plasticity for such an extended duration, suggesting that psilocybin's unique biological mechanism warrants further investigation.
 
@@ -41,25 +41,23 @@ This temporal profile reflects rTMS's mechanism as a targeted, circuit-level int
 
 The SAINT/SNT (Stanford Neuromodulation Therapy) protocol has achieved a degree of success in combining the advantages of both rTMS and ECT by delivering intensive, repeated stimulation within a compressed timeframe. Typically delivering 10 sessions per day over just 5 days, this accelerated protocol achieves remission rates of 79% in a double-blind RCT [@Cole2022], rivaling ECT in both speed and efficacy. Follow-up data show that over 70% of responders maintain gains at one month, with approximately 40% sustaining remission at three months [@Cole2020].
 
-
 ## SSRIs
 
 As is well established, SSRIs require 3–6 weeks to achieve clinically meaningful effects. This protracted timeline reflects the multi-stage sequence underlying SSRI efficacy. The first days produce serotonin transporter occupancy and autoreceptor activation (disruption phase). Over the subsequent weeks, autoreceptor desensitization permits genuine enhancement of serotonergic tone, BDNF expression increases, and neurogenesis is initiated (potentiation phase). This potentiation phase, maturing at weeks 2–6, creates the conditions for DMN normalization, corticolimbic reconnection, and dendritic spine remodeling (rewiring phase) that emerge at weeks 4–12 of treatment.
 
 Among the modalities discussed, SSRIs uniquely engage all four phases of the DPRH sequence. While their disruption is gentle and their potentiation slow to mature, the sustained neuromodulation acts as a constant impetus for stable rewiring. This may explain why SSRIs have been used as adjuncts to other treatment modalities: they supply the stabilization component that ECT, ketamine, and psilocybin inherently lack.
 
-
 ## Comparative Temporal Framework
 
 The following table summarizes the temporal profiles across modalities:
 
 | Modality | Onset of Action | Acute Treatment Duration | Inter-Session Interval | Remission Rate | Durability (Without Maintenance) | Maintenance Requirement |
-|---|---|---|---|---|---|---|
-| **Ketamine IV** | 2–4 hours | 2 weeks (6 infusions) | 2–3 days | ~50–60% | Median 18–19 days to relapse | Repeated infusions or oral antidepressant required |
-| **ECT** | ~1 week (3 sessions) | 2–4 weeks (6–12 sessions) | 2–3 days | ~75% | 84% relapse at 6 months | Maintenance ECT or pharmacotherapy required |
-| **Psilocybin** | Within 1 day | 1–2 sessions (1–3 weeks apart) | 1–3 weeks | ~29–54% | Months to 12+ months | Under investigation (comparatively durable) |
-| **Standard rTMS** | 2–4 weeks | 4–6 weeks (20–30 sessions) | Daily (weekdays) | ~20–30% | ~46% response at 12 months | Maintenance rTMS may be needed |
-| **SAINT/SNT** | 5 days | 5 days (50 sessions) | 50 minutes (within day) | ~79–90% | 70%+ at 1 month, ~40% at 3 months | Limited long-term data |
-| **SSRIs** | 2–4 weeks | 6–8 weeks (assessment) | Continuous daily dosing | ~30–40% | High relapse upon discontinuation | 6 months to indefinite |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| **Ketamine IV** | 2–4 hours | 2 weeks (6 infusions) | 2–3 days | \~50–60% | Median 18–19 days to relapse | Repeated infusions or oral antidepressant required |
+| **ECT** | \~1 week (3 sessions) | 2–4 weeks (6–12 sessions) | 2–3 days | \~75% | 84% relapse at 6 months | Maintenance ECT or pharmacotherapy required |
+| **Psilocybin** | Within 1 day | 1–2 sessions (1–3 weeks apart) | 1–3 weeks | \~29–54% | Months to 12+ months | Under investigation (comparatively durable) |
+| **Standard rTMS** | 2–4 weeks | 4–6 weeks (20–30 sessions) | Daily (weekdays) | \~20–30% | \~46% response at 12 months | Maintenance rTMS may be needed |
+| **SAINT/SNT** | 5 days | 5 days (50 sessions) | 50 minutes (within day) | \~79–90% | 70%+ at 1 month, \~40% at 3 months | Limited long-term data |
+| **SSRIs** | 2–4 weeks | 6–8 weeks (assessment) | Continuous daily dosing | \~30–40% | High relapse upon discontinuation | 6 months to indefinite |
 
 : Temporal profiles of major antidepressant modalities {#tbl-temporal}
