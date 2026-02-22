@@ -1,0 +1,30 @@
+---
+title: "rTMS: A Targeted Approach to Synaptic Rewiring"
+author: "Anselm Jeong"
+date: "2026-02-01"
+bibliography: "Metaplasticity.bib"
+---
+
+Unlike ECT or psychedelics, which induce dramatic effects through both disruption and broad plasticity enhancement, rTMS functions primarily through targeted synaptic rewiring [@Ji1998]. By focusing energy on specific cortical regions, rTMS modulates individual neural circuits through the induction of both long-term potentiation (LTP) and long-term depression (LTD) [@Huerta2009;@Fitzsimmons2024].
+
+This locality stems from the mechanism of rTMS. Focal magnetic fields generate intracranial electric currents that depolarize neurons and stimulate glutamate release at targeted cortical sites. It does not elicit seizure, thus neither postictal suppression nor the cortical slowing [@Hallett2007;@Hoogendam2010]. Although rTMS enhances neuroplasticity through pathways shared with other modalities, it is distinguished by its capacity to precisely control both the direction and spatial distribution of synaptic changes [@Hallett2007].
+
+## Directionality
+
+A defining feature of rTMS is its therapeutic utilization of both LTP- and LTD-like mechanisms. The directionality of plasticity is primarily controlled by stimulus frequency: high-frequency (≥5 Hz) protocols generally increase cortical excitability and promote LTP-like effects, while low-frequency (<1 Hz) protocols tend to decrease excitability and induce LTD-like effects [@Speer2000]. Newer paradigms, such as theta burst stimulation (TBS), modulate this balance through the pattern of delivery: intermittent delivery (iTBS) promotes LTP-like effects, whereas continuous delivery (cTBS) promotes LTD-like effects [@biomedicines12112506].
+
+Historically, depression was conceptualized as a hemispheric imbalance between left-prefrontal hypoactivity and right-prefrontal hyperactivity [@Grimm2008]. This led to the "inhibitory strategy" of applying low-frequency rTMS to suppress right-hemispheric hyperactivity. While still widely employed, definitive evidence supporting this lateralization model remains elusive [@Gibson2022].
+
+Regardless of the precise molecular details, the capacity for directional control distinguishes rTMS from other modalities. In terms of dynamical systems theory, whereas ECT and psychedelics "soften" the attractor landscape to enhance metastability, rTMS carefully sculpts this landscape to erode deep pathological attractor basins and restore the resilience of healthy ones [@Su2025]. This remodeling process facilitates the restoration of adaptive connectivity patterns without the global disruption induced by more aggressive treatments.
+
+## Rewiring
+
+While various plasticity-enhancing treatments converge on conserved pathways (BDNF/TrkB and mTOR pathways) that drive synaptic maturation and synaptogenesis, rTMS is unique in its capacity for precise spatial targeting. This allows for more anatomically constrained rewiring compared to the global effects of seizure-based or systemic pharmacological interventions [@Siddiqi2024].
+
+The rationale for the "precision" of rTMS lies in its controlled delivery. Specialized hardware, such as figure-8 coils, optimizes both the focality and depth of the magnetic field [@Deng2013]. The left dorsolateral prefrontal cortex (DLPFC) has become the gold standard target for major depressive disorder, as high-frequency stimulation is used to restore the hypoactivity and impaired top-down control characteristic of the region. Furthermore, because the left DLPFC is functionally coupled with limbic regions like the subgenual anterior cingulate cortex (sgACC), focal stimulation can exert downstream regulatory effects on emotion-processing circuits [@Baeken2015]. Evidence suggests that structural changes, such as dendritic spine remodeling, are concentrated within the stimulated cortex itself, confirming that neuroplastic changes are primarily confined to the region of energy delivery [@Cambiaghi2021].
+
+While ECT can also vary its delivery site via electrode placement, it remains fundamentally different from rTMS because its therapeutic effects are mediated by generalized seizures. More recently, the emergence of Transcranial Ultrasound Stimulation (TUS) represents an ongoing effort to achieve even higher spatial precision than current rTMS paradigms [@Jo2025].
+
+## Homeostatic Plasticity
+
+Whether rTMS directly enhances homeostatic plasticity capacity remains uncertain, but it clearly exploits homeostatic regulatory processes to achieve state-dependent rewiring. rTMS engages both Hebbian synapse-specific changes and global homeostatic scaling [@Mller2007;@Karabanov2015]. Brief increases in firing rates during rTMS lead to a reduction of existing excitatory synapses to restore baseline activity, followed by the growth of new connections that re-establish network stability [@Anil2023]. This kind of effects are particularly state-dependent: the outcome of stimulation is determined not by stimulation parameters alone but by the activation state of the target region. In this way, rTMS recalibrates the excitatory-inhibitory balance through the combined action of directional synaptic changes and homeostatic regulation, avoiding the global disruption inherent to other modalities [@Chen2022].
