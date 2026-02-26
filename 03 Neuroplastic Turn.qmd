@@ -1,0 +1,16 @@
+---
+title: "Neuroplastic Turn"
+author: "Anselm Jeong"
+date: "2026-02-13"
+bibliography: "Metaplasticity.bib"
+---
+
+The canonical explanation of depression was the so-called monoamine hypothesis, which posits that depression is caused by a deficiency in monoamine neurotransmitters and that increasing the concentrations of these molecules would produce therapeutic effects [@SCHILDKRAUT1965]. However, the weakness of this model was that it could not explain the delayed onset of treatment response. This explanatory gap prompted a paradigm shift toward hypotheses centered on structural and functional changes in the brain.
+
+Until the early 2000s, this shift manifested as the *neurotrophic hypothesis*, which proposed that chronic stress reduces the expression of BDNF in limbic structures, leading to synaptic atrophy and neuronal loss. Conversely, antidepressant treatment was thought to upregulate BDNF and TrkB, promoting neurogenesis and neuronal survival to yield a generalized, non-specific increase in cellular proliferation and synaptic density [@duman1999]. This hypothesis gained empirical traction through landmark studies showing that chronic antidepressant exposure increases hippocampal neurogenesis [@Malberg2000] and that blocking this process abolishes behavioral effects in preclinical models [@Santarelli2003]. However, this framework was challenged by subsequent findings demonstrating that antidepressants could still exert behavioral efficacy even when neurogenesis was pharmacologically suppressed [@Bessa2008]. Furthermore, the discovery that diverse antidepressants directly bind to the TrkB receptor demonstrated that binding to monoamine neurotransmitter receptors is not a prerequisite, at least, for plasticity-mediated antidepressant efficacy [@Castren2010; @Casarotto2021].
+
+This decoupling of cellular proliferation from therapeutic efficacy forced a critical reevaluation, giving rise to the more nuanced *neuroplastic hypothesis* (or network hypothesis). The delayed clinical response was no longer viewed simply as the time required for neuronal growth, but rather as the complex intracellular cascade needed to reactivate a state of heightened synaptic plasticity. Rather than a non-specific increase in the number of neurons and synapses, the focus shifted toward the delicate, activity-dependent rewiring of neural circuits. Castrén’s Neuronal network plasticity model suggested that antidepressants effectively "reopen" these critical periods, allowing for the correction of pathological circuit configurations when paired with behavioral interventions such as psychotherapy or cognitive training [@castrén2013].
+
+
+
+![Figure \_\_\_. Conceptual Model of ECT-Induced Landscape Flattening. The transition from a healthy landscape to pathological rigidity involves the deepening of maladaptive attractors (middle). ECT acts as a "metaplastic primer" (bottom), flattening high-energy barriers and returning the system to a malleable state where experience-dependent activity can re-establish healthy network configurations.](Images/health,%20ECT.png){width="600"}
