@@ -1,0 +1,26 @@
+---
+title: "Psychedelic"
+author: "Anselm Jeong"
+date: "2026-02-28"
+bibliography: "Metaplasticity.bib"
+---
+
+## Introduction of Ketamine and Psychedelics
+
+The discovery that ketamine exerts rapid antidepressant effects in patients with treatment-resistant depression marked a significant paradigm shift in psychiatry (10.1016/s0006-3223(99)00230-9; [@Zarate2006] Historically utilized as a noncompetitive N-methyl-D-aspartate (NMDA) receptor antagonist for anesthesia and analgesia, ketamine’s efficacy through glutamatergic blockade could not be reconciled with the dominant monoamine theory of depression. Furthermore, it challenged the entrenched assumption that antidepressant responses necessitate weeks of monoaminergic adaptation, introducing the newer concept of "rapid-acting antidepressants."
+
+During the 1950s and 1960s, psychedelics were extensively studied as animal models of psychosis or potential treatments for anxiety, depression, and alcoholism; however, research was largely abandoned due to their high abuse liability, stringent regulatory restrictions, and pervasive skepticism regarding their efficacy [@Maia2024]. Renewed scientific interest emerged in the late 1990s and early 2000s, followed by formalized controlled clinical studies in the 2010s. Seminal work with psilocybin demonstrated rapid reductions in depressive symptoms after one or two acute administrations in treatment-resistant populations [@Goodwin2022]. The regulatory and research infrastructure that expanded around ketamine provided both a scientific framework and clinical legitimacy for studying broad class of psychedelics [@Johnston2023]. Today, psychedelics have advanced to the forefront of psychiatric research, emerging as highly promising therapeutic candidates not only for depression but also for a broad spectrum of other psychiatric disorders [@Harvey2026].
+
+## Disruption
+
+Ketamine’s acute NMDA receptor blockade disinhibits glutamate release, activates AMPA receptors, and engages downstream mTOR and BDNF signaling, culminating in rapid synaptogenesis, particularly in the prefrontal cortex (PFC) [@li2010]. This glutamate surge hypothesis is supported by microdialysis studies showing that ketamine increases extracellular glutamate levels in the PFC of rodents within minutes of administration [@moghaddam1997]. Since either AMPA receptor blockade or mTOR inhibition diminishes the antidepressant effect, these processes are essential downstream mechanisms [@maeng2008; @li2010].
+
+Whether the ketamine-induced glutamate surge results in disruption to neural circuits remains an open question. However, ketamine does not induce the profound desynchronization characteristic of psychedelics. At most, it transiently modulates thalamocortical oscillations, reducing spindle and delta rhythms while increasing gamma and high-frequency activity [@Mahdavi2020]. This provides evidence of minor functional alterations rather than global disruption. Furthermore, the risk of the glutamate surge inducing excitotoxicity appears minimal, except in the developing brain [@Shibuta2015;@Choudhury2021].
+
+In contrast, psychedelics primarily act as 5-HT2A receptor agonists, initiating acute cortical network desynchronization [@siegel2024]. One of the consequence is a breakdown of the brain’s intrinsic networks, particularly the DMN. Functional MRI studies have shown that a high dose of psilocybin alters FC across the cortex and subcortex, reducing both the correlations within networks and anticorrelations between networks. This manifests as a loss of the modular and hierarchical organization of brain networks. This desynchronization has been described as an increase in entropy or randomness of brain activity. Such increased entropy correlates with subjective measures of altered experience, including ego dissolution and altered self-boundaries. 
+
+Whether the desynchronization phenomenon constitutes a disruption of the attractor landscape remains not yet clear. Nevertheless, Gim et al.[@Girn2023] proposed that psychedelics induce a brain state characterized by enhanced dynamic flexibility, diversity, and integration tuned for information sharing—features consistent with increased criticality. Similar to ECT, this process may be conceptualized as a form of "controlled stress" far from pathological damage. Within the framework of the DPRH model, such perturbations allow the system to explore a broader repertoire of activity patterns, potentially facilitating an escape from "stuck" attractor basins and providing an opportunity for reconfiguration [@Ruffini2024]. However, the necessity of the psychedelic experience for antidepressant effects remains a subject of ongoing debate, weakening the tie with dynamical systems theory [@Chen2025].
+
+## Potentiation
+
+
