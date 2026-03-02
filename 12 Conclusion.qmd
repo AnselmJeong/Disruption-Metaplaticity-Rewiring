@@ -34,3 +34,7 @@ bibliography: "Metaplasticity.bib"
 그러나, 우리는 증거의 공백을 인정하면서 이 가설에 과학적 엄밀성을 가지고 접근해야 한다. Gazerani가 강조하듯이, 신경가소성 연구는 "가소성을 활용할 수 있는가?"에서 **"정확히 어떤 조건에서 어떤 유형의 가소성이 이득 혹은 해를 가져오며, 이를 생애 전반에 걸쳐 어떻게 모니터링할 수 있는가?"**로 질문을 전환해야 한다. 메타가소성의 약속은 ECT 후 뇌 변화의 시간적 역동성을 매핑하고, 가소성 창의 신뢰할 수 있는 표지자를 개발하며, 각 환자에 대해 이 기간을 최적으로 활용하는 전략을 고안하는 추가 연구를 통해서만 실현될 것이다.
 
 성공한다면, 이는 정제된 ECT 프로토콜로 이어질 수 있다 – 예를 들어, ECT를 특정 약물, 재활 운동, 또는 뇌의 수용성에 맞춰 시기를 조정한 심리치료와 짝지음으로써 – ECT나 약물만으로는 달성할 수 없는 것을 훨씬 넘어서는 치료적 이익을 증폭시키고 연장시킬 수 있다. 그러나 가설에서 임상으로의 여정은 위에서 논의된 복잡성과 한계를 신중하게 탐색해야 할 것이며, 새로운 증거의 각 조각은 우리가 심각한 기분 및 정신 장애에 대한 보다 정교하고 효과적인 치료 전략을 개발하는 데 기여할 것이다.
+
+
+
+Where earlier research sought to identify the proximal molecular targets of ketamine or psychedelics—such as NMDA receptor antagonism or 5-HT2A receptor agonism—contemporary investigations now interrogate how these initial perturbations propagate through neural circuits, interact with environmental and behavioral inputs, and ultimately produce durable changes in cognition, affect, and behavior.
