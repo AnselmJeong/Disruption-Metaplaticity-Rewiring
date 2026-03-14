@@ -1,0 +1,78 @@
+---
+title: "Neuroplasticity-Based Combination Therapies for Treatment-Resistant Depression"
+author: "Anselm Jeong"
+date: "2026-02-03"
+format: docx
+bibliography: Metaplasticity.bib
+---
+
+The treatment modalities discussed in this review all owe their therapeutic effects to the modulation of neuroplasticity. Consequently, it might be assumed that combining these interventions would yield merely additive effects or that outcomes would be dominated by the more potent modality. However, empirical evidence suggests that the reality is far more nuanced.
+
+The most unexpected finding was the combination of ECT and ketamine. Across multiple RCTs, the use of ketamine as an anesthetic adjunct during ECT fails to enhance clinical outcomes and may even impede therapeutic efficacy [@Liu2024; @Fernie2017; @Anderson2017]. This pattern challenges the simplistic "more-is-better" assumption and indicates that the timing and sequence of combination therapies are as critical as their individual potency. In contrast, the concurrent initiation of esketamine with traditional oral antidepressants has received regulatory approval following demonstrated synergy [@Popova2019].
+
+These findings underscore the necessity of a unified framework in which each NPET occupies a distinct position within the overall therapeutic trajectory. The primary challenge lies in identifying the optimal combination and the precise order of delivery. A strategic, principled approach to combinations may prove far more productive than simply maximizing the intensity of any single intervention.
+
+### ECT and Psychedelic/Ketamine Combinations
+
+The theoretical appeal of combining ECT and ketamine was considerable. Both interventions produce rapid antidepressant effects, engage glutamatergic signaling, and trigger downstream BDNF-TrkB cascades. Ketamine's antagonism of GABA interneurons was hypothesized to potentiate ECT-induced synaptic plasticity. However, the clinical data did not support this hypothesis.
+
+Liu et al.[@Liu2024]'s network meta-analysis of 17 RCTs (N=1,370) established that combining ketamine with ECT does not confer additional therapeutic benefits and increases the risk of adverse events. This conclusion is reinforced by major individual trials: the KANECT study found no difference in outcomes when using ketamine versus propofol anesthesia [@Fernie2017], and similar negative results were reported by Anderson et al.[@anderson2017] and Carspecken et al.[@Carspecken2018]. Intriguingly, ketamine was the only anesthetic agent that elevated plasma BDNF levels, yet this biochemical signal failed to produce a clinical advantage.
+
+Esketamine (s-enantiomer of ketamine) presents a more favorable picture. Zeng et al.[@Zeng2025]'s non-inferiority trial found comparable HAMD-17 reductions between esketamine and propofol when used as anesthetic agents; while response (80% vs. 70%) and remission (65% vs. 55%) rates were numerically higher in the esketamine group, these differences did not reach statistical significance [@Zeng2025].
+
+Other investigations have explored esketamine as a distinct treatment modality rather than a mere anesthetic adjunct. A case series demonstrated that pairing ECT with intranasal esketamine on non-ECT days facilitated sustained clinical improvement and allowed for extended intervals between maintenance ECT sessions [@LpezRodrguez2026]. Another study evaluating esketamine’s efficacy in patients with a history of failed ECT found that a significant proportion of these patients achieved remission after combining esketamine and ECT [@Kavakbasi2025].
+
+### Psychedelic/Ketamine and SSRI Combinations
+
+While both psychedelics and SSRIs increase serotonergic tone, chronic SSRI administration typically leads to 5-HT2A receptor downregulation, which could dampen the therapeutic effects of psychedelics. Consequently, a sequential approach, in which psychedelic treatment is followed by SSRI maintenance might be more advantageous than concurrent administration.
+
+The combination of esketamine nasal spray and oral antidepressants is already approved by FDA as a treatment strategy for TRD. In a pivotal randomized controlled trial of 227 treatment-resistant MDD (TRD) patients, the addition of esketamine to a newly initiated oral antidepressant resulted in a 4.0-point greater reduction in MADRS scores compared to placebo spray [@Popova2019]. The ESCAPE-TRD study [@Reif2023] further validated this result in a larger cohort (N=676), demonstrating that simultaneously initiating esketamine with an SSRI/SNRI was significantly superior to quetiapine XR + SSRI/SNRI augmentation.
+
+Emerging evidence regarding psilocybin likewise challenges the assumption that SSRIs necessarily block psychedelic efficacy. In an open-label study involving 19 TRD patients who maintained their stable SSRI regimens, a single 25 mg dose of psilocybin led to a mean MADRS reduction of 14.9 points at week three, with both response and remission rates reaching 42.1% [@Goodwin2022]. On the contrary, a post-hoc RCT analysis indicates that SSRI/SNRI discontinuation prior to psilocybin therapy was associated with reduced rather than enhanced treatment effects compared with unmedicated patients [@Erritzoe2024]. While withdrawal-induced relapse may confound baseline severity, making it difficult to draw definitive conclusions, the observation that maintaining rather than discontinuing SSRIs/SNRIs yields better outcomes suggests a potential synergistic effect between the two treatments.
+
+### Interpreting the Evidence
+
+| Treatment | Disruption | Plasticity Duration | Guidance Specificity | Stabilization |
+|--------------|--------------|---------------|---------------|--------------|
+| ECT | Very High | Days-Weeks | Low | Low |
+| Ketamine | High | Hours-Days | Low | Low |
+| Psilocybin | High | Hours-Weeks | Low (without therapy) | Low |
+| SSRIs | Low | Weeks-Months | Moderate | High |
+| Psychotherapy | Low | Variable | Very High | Moderate |
+
+: Different treatment modalities occupy different positions on these dimensions {#tbl-modalities}
+
+The simplest rationale for combination therapy assumes that if two interventions independently promote neuroplasticity, their combined application should yield additive or synergistic benefits. However, clinical evidence suggests this assumption is largely inadequate. The failure of ketamine as an anesthetic adjunct during ECT highlights how mechanistic overlap can result in redundancy or interference rather than synergy. From the perspective of the DPRH (Disrupt-Potentiate-Rewire-Homeostasis) framework, an effective combination must account for the specific role each NPET plays within the DPRH sequence, the precise timing and duration of the metaplastic window, and the capacity of each modality to guide subsequent rewiring. This framework explains why ECT without continuation pharmacotherapy often leads to higher relapse rates and why the PRIDE study’s success with early SSRI initiation during ECT contrasts so sharply with the failure of ECT-ketamine combinations. The critical insight is that disruption alone is insufficient without sustained guidance toward adaptive network configurations.
+
+
+
+## Temporal Dynamics
+
+The efficacy of combination therapy is fundamentally governed by the temporal architecture of the DPRH sequence. While various interventions share overlapping molecular targets, they operate on markedly different timescales, necessitating precise scheduling to maintain overlapping windows of plasticity. The most conspicuous distinction among these treatments is not merely their molecular mechanism, but their temporal logic: how rapidly they produce clinical effects, how long those windows of heightened plasticity persist, and what inter-session intervals are required for optimal consolidation.
+
+High-energy disruptors like ECT and ketamine produce rapid clinical effects but operate within transient plasticity windows. An individual ECT session, for instance, opens a metaplastic window spanning approximately 24–72 hours, marked by cumulative BDNF elevation and shifts in NMDA receptor subunit ratios [@Husain2004]. To prevent this window from closing, a minimum frequency of three sessions per week is often necessary to achieve a cumulative therapeutic effect. Similarly, while ketamine triggers a glutamate surge and mTOR activation within hours, its effects on synaptic remodeling often dissipate within 3–7 days without maintenance. This rapid decay reflects a period of heightened plasticity that remains insufficient for durable circuit reorganization unless bridged by subsequent interventions.
+
+Psilocybin-assisted therapy occupies a unique position within this temporal framework, combining rapid pharmacological onset with remarkably prolonged durability. While the acute psychedelic experience resolves within hours, the consequent window of enhanced plasticity can persist for months, effectively reopening a "critical period" that is otherwise closed in the mature adult brain [@Davis2021; @Nardou2023]. This extended duration suggests that psilocybin provides a broader temporal canvas for directed rewiring, particularly when the experience is embedded within structured psychotherapy. This integration provides the essential environmental input required to stabilize new neural configurations before the metaplasticity window eventually closes.
+
+In contrast, SSRIs and traditional antidepressants operate through a protracted multi-stage sequence, typically requiring 3–6 weeks for clinical manifestation. This delayed timeline reflects the necessity for autoreceptor desensitization and the gradual maturation of neurogenic pathways. However, this slow maturation allows SSRIs to uniquely supply the sustained neuromodulatory tone required to bias the directionality of rewiring. By acting as a constant impetus for stable reorganization, SSRIs serve as the stabilization component that rapid-acting disruptors inherently lack. Consequently, effective combination protocols must calibrate these disparate timelines, pairing the rapid landscape-flattening of disruptors with the "tilting" guidance and stabilization provided by sustained-action agents.
+
+## Comparative Temporal Framework
+
+The following table summarizes the temporal profiles across modalities:
+
+| Modality | Onset of Action | Acute Treatment Duration | Inter-Session Interval | Remission Rate | Durability (Without Maintenance) | Maintenance Requirement |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| **Ketamine IV** | 2–4 hours | 2 weeks (6 infusions) | 2–3 days | \~50–60% | Median 18–19 days to relapse | Repeated infusions or oral antidepressant required |
+| **ECT** | \~1 week (3 sessions) | 2–4 weeks (6–12 sessions) | 2–3 days | \~75% | 84% relapse at 6 months | Maintenance ECT or pharmacotherapy required |
+| **Psilocybin** | Within 1 day | 1–2 sessions (1–3 weeks apart) | 1–3 weeks | \~29–54% | Months to 12+ months | Under investigation (comparatively durable) |
+| **Standard rTMS** | 2–4 weeks | 4–6 weeks (20–30 sessions) | Daily (weekdays) | \~20–30% | \~46% response at 12 months | Maintenance rTMS may be needed |
+| **SAINT/SNT** | 5 days | 5 days (50 sessions) | 50 minutes (within day) | \~79–90% | 70%+ at 1 month, \~40% at 3 months | Limited long-term data |
+| **SSRIs** | 2–4 weeks | 6–8 weeks (assessment) | Continuous daily dosing | \~30–40% | High relapse upon discontinuation | 6 months to indefinite |
+
+: Temporal profiles of major antidepressant modalities {#tbl-temporal}
+
+## Summary
+
+The rational design of combination therapy requires a calibrated alignment between the intensity of disruption, the duration of the metaplastic window, and the precision of stabilization mechanisms. According to the DPRH framework, an ideal protocol should be sequenced to leverage these temporal differences: initial high-energy disruption (via ECT, psychedelics, or ketamine) to destabilize pathological network configurations, followed by sustained pharmacological or behavioral interventions to maintain the window of enhanced plasticity and guide adaptive reorganization. 
+
+A critical insight from this temporal logic is that disruption without sustained stabilization is insufficient; the transient plasticity opened by rapid-acting agents must be "bridged" by the slow-maturing but durable effects of traditional antidepressants and psychotherapy. In dynamical systems terms, while ECT and ketamine excel at flattening the energy landscape, they provide no inherent directional bias. SSRIs and structured psychotherapy/rehabilitative support serve as "tilting" interventions that provide the sustained, directional input necessary to guide the system into healthier basins and consolidate those gains before the plasticity window closes.
